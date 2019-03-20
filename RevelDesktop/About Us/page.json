@@ -1,0 +1,101 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B3E954F8-6933-45FF-BE0D-3C09BE44950A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -471,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "F01994D1-2118-42CE-8F21-DC8434C83A81"
+    },
+    {
+      "class": "artboard",
+      "id": "5B657148-4D45-41C1-804C-252FBB6F1680"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99283291-DA26-421B-BD51-F241E83F27F5"
+    },
+    {
+      "class": "group",
+      "id": "C9D363D6-C24F-428A-9F89-9D583E4C19AE"
+    },
+    {
+      "class": "oval",
+      "id": "2D939B1A-DBFD-43B2-BC0A-A25B9A9C3E38"
+    },
+    {
+      "class": "bitmap",
+      "id": "89B7AEE3-412C-4C22-9FFA-C00825F90D7A"
+    },
+    {
+      "class": "bitmap",
+      "id": "83C2177A-CD0F-4619-A8EA-F53CEE374274"
+    }
+  ],
+  "name": "About Us",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -405,
+    "guides": [
+    ]
+  }
+}

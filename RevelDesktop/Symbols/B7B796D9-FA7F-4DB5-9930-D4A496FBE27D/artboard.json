@@ -1,0 +1,97 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B7B796D9-FA7F-4DB5-9930-D4A496FBE27D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2174,
+    "width": 5827,
+    "x": 10150,
+    "y": 1051
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6C135D76-AC84-46DB-A7E8-05D279BB8734"
+    },
+    {
+      "class": "group",
+      "id": "BF1933FC-FA0E-45D4-B8D5-9F187217D81D"
+    },
+    {
+      "class": "rectangle",
+      "id": "851BD323-C371-4345-B746-565C8737F24E"
+    },
+    {
+      "class": "group",
+      "id": "1DDA3B66-EC3F-40CC-A029-4263DBDB0963"
+    },
+    {
+      "class": "rectangle",
+      "id": "5862A6AF-0794-46F1-8DAA-00107F4D8813"
+    },
+    {
+      "class": "group",
+      "id": "2D46E0BD-6E1F-40BF-A76E-46D0B84D6A45"
+    }
+  ],
+  "name": "NavBar",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

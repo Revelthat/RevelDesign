@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B4D7ABD4-C3BB-44CB-922D-F4CFE238B2BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "45B33A9D-C510-49FF-8069-B08FCA3E9D3B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "023CB80D-962E-4179-B289-DA67AD3D6AA6",
+    "height": 75,
+    "width": 343,
+    "x": 744,
+    "y": 493
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input / First Name",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E65D2DB6-F595-4D52-9839-7080A1661420",
+      "overrideName": "534560DA-1CE4-4AD1-BBB6-FC69D331940D_stringValue",
+      "value": "Kelly"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "678B8C65-3770-45BE-A459-326B78F08F9A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "12632A4D-4F3C-474F-B295-7527130C3739",
+  "verticalSpacing": 0
+}

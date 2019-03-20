@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9DCDF698-CA2E-415C-BCAA-FF2974C26029",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CE7B7B30-0467-4174-96BD-8D86BABB2F76",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "610F1C63-613B-4EEB-B1CA-3FC5C32AE973",
+    "height": 36,
+    "width": 145,
+    "x": 1187,
+    "y": 210
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Cancel",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B689F399-E0B6-4B31-AE4F-93CA101E5F5B",
+      "overrideName": "9F810289-7169-40A8-9C1E-51CFE2AA04A6_stringValue",
+      "value": "View Leads"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2FADDF42-F46A-4A39-8D24-FD1E743D7891",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A90D9EF8-627A-41D3-8CF3-9F8299654BF1",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F1C21006-7972-419B-94E7-6FA71394C826",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7DFA3804-C985-480A-AF46-65DBEA3F2554",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "063A76AC-E0C6-4E63-B90A-97B053CC291C",
+    "height": 42,
+    "width": 298,
+    "x": 39,
+    "y": 451
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "event-card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B9315777-55BB-47D8-AA6F-0C8AA8D87A8A",
+      "overrideName": "3F22CB9B-F9D6-4F12-9056-A5E984C8CAB9_stringValue",
+      "value": "July 12th 18"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2EA314AC-A14E-4B53-8DD9-E44B3F7A9525",
+      "overrideName": "F6296466-A9F2-4839-89A5-E6DC30B0EB5F_stringValue",
+      "value": "The wedding -"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "680E7C9E-DF43-41CC-9177-CF2E0C3C0E5F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "280C325E-09DC-4FF8-A03C-4660B2A5E506",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "98B42083-C753-4179-9659-54C409C1C831",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "96405C3D-8BD4-4B25-A682-220D7E3C0B57",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DC81760B-4301-42C1-B3E4-F7916A981C98",
+    "height": 36,
+    "width": 327,
+    "x": 22,
+    "y": 371
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Cancel",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7F81005A-38A4-4904-BE83-4890C5980510",
+      "overrideName": "31423024-11B3-4699-A1AB-F10C3B41A52C_stringValue",
+      "value": "I want to browse Revel's spaces"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ED23C513-E836-438D-A6DA-25B2B6C8DFE2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AE60F615-E2BE-4A59-A5F0-D36C76956A11",
+  "verticalSpacing": 0
+}

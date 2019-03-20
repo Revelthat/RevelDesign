@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EB13E30C-AAB9-404B-A7F8-AE39523CA781",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EB06D9BC-D073-4C56-9717-08BF39BCDA90",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8EC659BC-E1FB-423D-BBA8-42D8D3F978DF",
+    "height": 65,
+    "width": 555,
+    "x": 353,
+    "y": 591
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input / Email Address",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0CBC1678-0A2B-4A8E-9A86-2E8ADD1C0B15",
+      "overrideName": "56A90D3C-DA4F-468C-8CA5-822A9C5AF137_stringValue",
+      "value": "max@revelthat.com"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "496A4C6D-2D9F-40E7-A34E-E9E5CB8C8B03",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AF9C92B9-0D47-4A34-877E-9E7D46BC9B70",
+  "verticalSpacing": 0
+}

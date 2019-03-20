@@ -1,0 +1,110 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EFDD023A-928B-4508-B9FC-CF53FAD5CB66",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F5D63FA0-8EFD-46CE-A049-7F7D757F42A7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "67CEA5F5-EA6F-4B59-A0D3-D4A5067578F7",
+    "height": 847,
+    "width": 393,
+    "x": 32,
+    "y": 125
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Message-info",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8F47EEDE-DA37-4F43-BB11-93256C002D6A",
+      "overrideName": "04EAA63E-F4AB-4FBD-8659-1A71FD8BA384_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/04d2be9d3c37b02d3d37a850f0cb2f924f5c151e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "59E2EB44-725D-4BC0-BD30-9EC313429D31",
+      "overrideName": "803DFC5B-C06A-4B1A-A425-C16FDB507F5F_stringValue",
+      "value": "46 Berkeley St Hawthorn"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5533E6EC-84BE-4B7F-9738-71E65849CCB3",
+      "overrideName": "5FA97F25-545C-41A0-A4A0-C737941E59ED_stringValue",
+      "value": "100"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "38B3A98C-3E31-4F9D-A370-9CB5ADB38817",
+      "overrideName": "B4861BA9-81F5-4BE9-8DA6-6F3857877EA7_stringValue",
+      "value": "16.07.18 - 17.07.18"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3896B702-AA2E-4F5D-8507-9C0CB64F43E5",
+      "overrideName": "42CF2992-388C-42E8-B9BD-106F07BB96C1_stringValue",
+      "value": "$1000"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "63D75F24-ED22-4A94-B558-406F8A818522",
+      "overrideName": "378CD705-3A1C-4015-8AA8-2F834D1B2BD3_stringValue",
+      "value": "$100"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8EC09D66-AE54-446B-BD41-E60127CF3D09",
+      "overrideName": "01390A75-9DA3-4E9F-B6F7-4CAB78292D07_stringValue",
+      "value": "$100"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7868B0AB-02A8-46B9-BFCB-1CD4B6A81230",
+      "overrideName": "E29C6998-8C3B-4909-A43E-F11E58AE830A_stringValue",
+      "value": "Paid"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EE2D1919-55AB-4395-B7B2-AC12AF10AA88",
+      "overrideName": "5BD811B4-55AD-41A0-9DE7-2CD41206BEB7_stringValue",
+      "value": "$800"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EE4D076C-924F-4135-9D07-FB5E7B4F7DA9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "166455BC-C4BE-447F-8B09-99F72938A87E",
+  "verticalSpacing": 0
+}

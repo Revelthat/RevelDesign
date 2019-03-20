@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A7517A87-6602-454A-A836-A01DE3E40E8D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "44074277-9FC0-4A2B-A9AA-8CDECEE81695",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6B54F9F2-3D33-4C3D-A135-B3217E597278",
+    "height": 65,
+    "width": 555,
+    "x": 433,
+    "y": 359
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input / Email Address",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A2302E59-3B16-497F-858F-A62A605CF287",
+      "overrideName": "56A90D3C-DA4F-468C-8CA5-822A9C5AF137_stringValue",
+      "value": "New Password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E0E125C4-0FCF-4D9D-9488-EBBBDDB7C613",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AF9C92B9-0D47-4A34-877E-9E7D46BC9B70",
+  "verticalSpacing": 0
+}

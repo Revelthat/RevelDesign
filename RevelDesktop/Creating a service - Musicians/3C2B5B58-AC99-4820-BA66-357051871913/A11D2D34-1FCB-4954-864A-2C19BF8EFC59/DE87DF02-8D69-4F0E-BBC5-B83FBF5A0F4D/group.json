@@ -1,0 +1,291 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DE87DF02-8D69-4F0E-BBC5-B83FBF5A0F4D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 145,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A9B9BFA9-EEF4-4714-B2CB-83E8A1B632B6"
+    }
+  ],
+  "name": "Stacked Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "actions": [
+          {
+            "delayFromTrigger": 0,
+            "listeners": [
+              {
+                "event": "timer",
+                "modelID": "eventListener_d85df780-fa00-4ab4-8231-cc740c10a02e",
+                "model_class": "ADModelEventListener",
+                "model_version": 0.1,
+                "timerMS": 0
+              }
+            ],
+            "modelID": "Transition_d6977836-13c6-4194-b858-693923ca0176",
+            "model_class": "ADModelActionScriptAnimation",
+            "model_version": 0.1,
+            "name": "Transition (Initial -> Keyframe1)",
+            "targetStateName": "keyframe1",
+            "timelines": [
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 0,
+                    "modelID": "animation_788a275b-df9a-4025-8e01-80eb2f81c689",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "constraints": {
+                        "automatic": 1,
+                        "bottom": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_18fb539f-61e8-4309-a326-ce2a64af0f86",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": -0.1111111
+                        },
+                        "centerHorizontally": {
+                          "constant": -2,
+                          "enabled": 1,
+                          "modelID": "constraint_95febc34-9130-4e7e-9dbd-704e4bcaf173",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0
+                        },
+                        "height": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_c31810f9-b6f9-4147-8e0d-ca3d5d608b3f",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 1.111111
+                        },
+                        "modelID": "viewConstraints_dc6b7437-64cc-448f-a65c-3dbcb365ef0a",
+                        "model_class": "ADModelViewConstraints",
+                        "model_version": 0.1,
+                        "scaleFactor": 1,
+                        "translated": 1,
+                        "width": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_8826cd84-e240-4843-bce8-5317377ba66f",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 1.027586
+                        }
+                      },
+                      "x": -4,
+                      "y": 0
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_0c532cfc-3f6f-4d6e-a12f-ba8acf481f25",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;buttonsCancel"
+              }
+            ],
+            "trigger": 0
+          },
+          {
+            "delayFromTrigger": 0,
+            "listeners": [
+              {
+                "event": "click",
+                "modelID": "eventListener_8de69c97-0850-4989-9cfe-b569ab1b4571",
+                "model_class": "ADModelEventListener",
+                "model_version": 0.1,
+                "timerMS": 0
+              }
+            ],
+            "modelID": "Transition_0df9b412-410b-41f7-9c09-a4462e3c3938",
+            "model_class": "ADModelActionScriptAnimation",
+            "model_version": 0.1,
+            "name": "Transition (Keyframe1 -> Keyframe2)",
+            "originStateName": "keyframe1",
+            "targetStateName": "keyframe2",
+            "timelines": [
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 0.2,
+                    "modelID": "animation_8c2e39fa-227b-498d-9f06-00b67a96a3f2",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "constraints": {
+                        "automatic": 1,
+                        "bottom": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_18fb539f-61e8-4309-a326-ce2a64af0f86",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": -0.08333334
+                        },
+                        "centerHorizontally": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_95febc34-9130-4e7e-9dbd-704e4bcaf173",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 0
+                        },
+                        "height": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_c31810f9-b6f9-4147-8e0d-ca3d5d608b3f",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 1.111111
+                        },
+                        "modelID": "viewConstraints_dc6b7437-64cc-448f-a65c-3dbcb365ef0a",
+                        "model_class": "ADModelViewConstraints",
+                        "model_version": 0.1,
+                        "scaleFactor": 1,
+                        "translated": 1,
+                        "width": {
+                          "constant": 0,
+                          "enabled": 1,
+                          "modelID": "constraint_8826cd84-e240-4843-bce8-5317377ba66f",
+                          "model_class": "ADModelConstraint",
+                          "model_version": 0.1,
+                          "multiplier": 1.027586
+                        }
+                      },
+                      "x": -2,
+                      "y": -1
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_49a5569e-693b-428c-a5b2-a6164230e716",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;buttonsCancel"
+              }
+            ],
+            "trigger": 0
+          }
+        ],
+        "align": 0,
+        "defaultStateName": "keyframe1",
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 0,
+        "stackType": 0,
+        "states": [
+          {
+            "model_class": "ADModelViewState",
+            "model_version": 0.1,
+            "name": "keyframe1",
+            "overrides": {
+              "this;buttonsCancel": {
+                "constraints": {
+                  "automatic": 1,
+                  "bottom": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_18fb539f-61e8-4309-a326-ce2a64af0f86",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": -0.1111111
+                  },
+                  "centerHorizontally": {
+                    "constant": -2,
+                    "enabled": 1,
+                    "modelID": "constraint_95febc34-9130-4e7e-9dbd-704e4bcaf173",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 0
+                  },
+                  "height": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_c31810f9-b6f9-4147-8e0d-ca3d5d608b3f",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 1.111111
+                  },
+                  "modelID": "viewConstraints_dc6b7437-64cc-448f-a65c-3dbcb365ef0a",
+                  "model_class": "ADModelViewConstraints",
+                  "model_version": 0.1,
+                  "scaleFactor": 1,
+                  "translated": 1,
+                  "width": {
+                    "constant": 0,
+                    "enabled": 1,
+                    "modelID": "constraint_8826cd84-e240-4843-bce8-5317377ba66f",
+                    "model_class": "ADModelConstraint",
+                    "model_version": 0.1,
+                    "multiplier": 1.027586
+                  }
+                },
+                "x": -4,
+                "y": 0
+              }
+            }
+          },
+          {
+            "model_class": "ADModelViewState",
+            "model_version": 0.1,
+            "name": "keyframe2"
+          }
+        ],
+        "timelineType": "animation",
+        "variableIDSketchID": "DE87DF02-8D69-4F0E-BBC5-B83FBF5A0F4D"
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "640656ED-733C-4227-B025-414FB8ADED5C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F14F14AC-16F4-4620-91EB-78230B0810EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C55FF9DD-0E1B-4506-96AE-D24E4B1852BF",
+    "height": 83,
+    "width": 85,
+    "x": 112,
+    "y": 783
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card / Attendee Card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7D6C6B84-2385-4103-A3AF-302025A05D2F",
+      "overrideName": "352D7616-B495-4E0F-BE16-BA8F78F8D866/4C6714A3-CCE6-447E-8453-1D497F11E4E3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/91465362ea67659cf376daf6b0cfd6352ea16716.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3EF2743B-11D6-44C6-AB03-5C70FA673B49",
+      "overrideName": "C700A168-E999-42FF-9180-454808BA5296_stringValue",
+      "value": "Andy Smith"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "259A3B96-A073-46FE-AB5F-318A68B16819",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "170B2449-610D-4BD6-80A6-37825ACE9158",
+  "verticalSpacing": 0
+}

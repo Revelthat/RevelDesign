@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CABD8B4B-0EF4-46E3-918F-C95D278F026D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB080A7F-0262-4D4F-930E-8F5527ED4192",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C4A0BB75-D78F-400B-BB52-90469713C5B7",
+    "height": 62,
+    "width": 1344,
+    "x": 32,
+    "y": 434
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Message card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "46B1FEC1-AFFD-4F06-A3A3-072482CE4D80",
+      "overrideName": "382F0E6D-882C-41BE-BCF6-4C94B4300139_stringValue",
+      "value": "John Smith"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B3789F06-A267-486B-BF40-23960707779F",
+      "overrideName": "70D2920B-BC84-4458-86F3-4FACEE341DA8_stringValue",
+      "value": "50th Birthday"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3E4AB643-F01B-42C9-9DE6-757F1683F559",
+      "overrideName": "40D2B734-A598-4D59-BF09-4D58B7DC79D6_stringValue",
+      "value": "Quote & Deposit received"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "787432F8-9E18-488E-A00E-EAC904938CF3",
+      "overrideName": "1CF5E47E-DAF6-4F03-AB18-2488F1673424_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/26ad5fd253fb76fe5ac2a567ef1d73b1ffff3e58.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9A36E46B-E649-4372-9EF9-4F1C09CCFB19",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D8DB1E9E-FE83-4163-BF77-1EEABFCA5BE0",
+  "verticalSpacing": 0
+}

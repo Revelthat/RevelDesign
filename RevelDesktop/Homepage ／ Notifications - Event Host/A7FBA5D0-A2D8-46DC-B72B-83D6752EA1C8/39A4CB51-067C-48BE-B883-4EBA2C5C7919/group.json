@@ -1,0 +1,100 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "39A4CB51-067C-48BE-B883-4EBA2C5C7919",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "40A90E8D-D9DC-43AF-8280-8393B2F10A93",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "81596542-BE58-49B1-A228-480DE62B58C5",
+    "height": 1101,
+    "width": 1151,
+    "x": 145,
+    "y": 700
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6E4D2FA4-72B5-4276-AE09-0E74EB602CAB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E2CCB8B-F0A6-4A2A-B0D1-E62BB0C45638"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B06B3D5-8612-4FD4-BE56-D19C5AF2A6D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF7D32EB-59EA-4BFF-AF55-9A55DAA14173"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D218977-D64E-4A2E-88CA-BB019ED59AEE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B0046F40-E2AB-4AE2-9C99-53ED2A9AE31C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EB1D9234-5F53-40DE-85CC-4065D32799A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C31C35F-54A2-43B2-9AB6-3DAE266FA712"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85C30E1A-8DDA-4326-8026-797DF342A292"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "323E608F-F1B0-4750-ABAB-A8E85410AB07"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3866352A-0981-4901-B9C6-0ACFCD17AA91"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6991B99D-B71D-4C0A-BFD7-87C0E9ED916F"
+    }
+  ],
+  "name": "Group 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F025EBF5-5FBD-434F-A48C-5DC854A7D64C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "703B4ED9-8DC0-49CD-A33D-66548E76D766",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B3C36A6E-98D3-498F-BF73-CC2FC4AD15D2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D7C5B76B-1AB9-4821-BBB4-D63F82FDBC26",
+    "height": 125,
+    "width": 357,
+    "x": 10,
+    "y": 702
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3D3C2ED6-9199-4AAD-9D9B-A55D745A5587"
+    },
+    {
+      "class": "bitmap",
+      "id": "7BA0353A-A027-4183-90CD-B6A933421879"
+    }
+  ],
+  "name": "jens-johnsson-121803-unsplash",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8228B666-A1E3-41B7-AE55-B47DF6C110F0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

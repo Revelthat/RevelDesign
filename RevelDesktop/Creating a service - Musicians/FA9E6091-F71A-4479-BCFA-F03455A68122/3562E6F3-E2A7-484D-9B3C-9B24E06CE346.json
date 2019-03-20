@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3562E6F3-E2A7-484D-9B3C-9B24E06CE346",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC4DEEFA-101D-44F7-AEF2-25B932FCB5DB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4F619514-9F48-4877-8035-B3EA2C46495B",
+    "height": 30,
+    "width": 77,
+    "x": 151,
+    "y": 224
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Create Event",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3DB097BF-CF57-48C8-9C1C-700FC6BE910D",
+      "overrideName": "ADFC4AB4-299F-4B7F-9C05-C20AD777BC2B_stringValue",
+      "value": "Skip"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7A746E31-721A-4FE5-A9FC-B8771612BCF2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "85A38320-E3FD-4970-9AB8-1D7D4ADAADB9",
+  "verticalSpacing": 0
+}

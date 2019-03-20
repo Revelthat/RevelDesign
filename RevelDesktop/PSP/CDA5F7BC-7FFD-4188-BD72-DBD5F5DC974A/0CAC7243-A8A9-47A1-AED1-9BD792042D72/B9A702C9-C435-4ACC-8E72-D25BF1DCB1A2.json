@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B9A702C9-C435-4ACC-8E72-D25BF1DCB1A2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "833FB2E8-D663-426F-98C7-7135A7119AB2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "45B3F9BF-A88D-420F-96AB-2E95CC015B93",
+    "height": 92,
+    "width": 114,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Search / Mobile Catergory",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CB35671F-629F-4A2C-8A10-260F0D772309",
+      "overrideName": "2940CBB9-6FF9-472B-85E2-A3A0633EA8DA_stringValue",
+      "value": "Food Truck"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "31305132-4B29-4683-9F95-0C146A08FA20",
+      "overrideName": "A5BA3DBE-BBD8-4A2D-9C90-4C88434EE447_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/96ec90e1226e258236aca02dfcf92fbf447296da.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3DB05A69-FDAA-4296-BC39-B1C229A85D59",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ED2C02E8-02BA-4DAC-B873-5E4DBE8FAD64",
+  "verticalSpacing": 0
+}

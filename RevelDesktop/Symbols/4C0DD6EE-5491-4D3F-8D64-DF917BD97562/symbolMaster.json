@@ -1,0 +1,146 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 73,
+  "clippingMaskMode": 0,
+  "do_objectID": "4C0DD6EE-5491-4D3F-8D64-DF917BD97562",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 24,
+    "x": 8963,
+    "y": -612
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BD2946A9-2D6B-4C29-9B0C-35DBCD26C27F"
+    }
+  ],
+  "name": "ic_notification",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0DBE21A0-1189-486E-8077-B30ED65AFC77_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0DBE21A0-1189-486E-8077-B30ED65AFC77_layerStyle"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "054480F0-E542-4F63-A8E7-71590CE974DF",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "actions": [
+          {
+            "delayFromTrigger": 0,
+            "listeners": [
+              {
+                "event": "timer",
+                "modelID": "eventListener_537b7cd6-05cf-4657-85ab-031d4ffd414e",
+                "model_class": "ADModelEventListener",
+                "model_version": 0.1,
+                "timerMS": 0
+              }
+            ],
+            "modelID": "Transition_a7f3ca1d-6c9a-486e-a7ff-5493db1fd475",
+            "model_class": "ADModelActionScriptAnimation",
+            "model_version": 0.1,
+            "name": "Transition (Initial -> State1)",
+            "targetStateName": "state1",
+            "timelines": [
+            ],
+            "trigger": 0
+          }
+        ],
+        "defaultStateName": "state1",
+        "states": [
+          {
+            "model_class": "ADModelViewState",
+            "model_version": 0.1,
+            "name": "state1"
+          },
+          {
+            "model_class": "ADModelViewState",
+            "model_version": 0.1,
+            "name": "state2",
+            "overrides": {
+              "this;icnotification": {
+                "height": 47,
+                "y": -23
+              }
+            }
+          },
+          {
+            "model_class": "ADModelViewState",
+            "model_version": 0.1,
+            "name": "state3"
+          }
+        ],
+        "timelineType": "component",
+        "variableIDSketchID": "4C0DD6EE-5491-4D3F-8D64-DF917BD97562"
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

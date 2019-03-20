@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F7FBBDC3-42F7-4F5B-A132-90618DE7A443",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "470D3F78-3DB1-4DFE-931B-3649068E01A1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D5DA4147-D23F-45DB-BCC2-45E88377977C",
+    "height": 62,
+    "width": 933,
+    "x": 480,
+    "y": 323
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "message",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "02C9FA1B-617C-4BDF-BADD-7B89F7591354",
+      "overrideName": "064FBCE8-EF00-4854-B2CE-31376A97E135_stringValue",
+      "value": "Hey Max! I will check out the job request and get back to you. "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "33892F3A-F63C-4A7D-9F5B-F93D00B8B5AA",
+      "overrideName": "0F4264BB-9CCF-444A-9559-E8D34D06A1F1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/04d2be9d3c37b02d3d37a850f0cb2f924f5c151e.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7E93B7B4-1830-4B84-823B-D9A5562844DC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B326A922-E353-4BE1-8BA6-D1D90984208B",
+  "verticalSpacing": 0
+}

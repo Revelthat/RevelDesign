@@ -1,0 +1,115 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C4141F34-9D3D-48BF-AA29-1AF8F4CBE43C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "38042E23-1E62-49B6-806E-14D0026CDFB0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0E8FF1FB-78EE-4EF6-AC58-0B0C0E41FE58",
+    "height": 0.1,
+    "width": 0.1,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "C9EF9669-2028-4107-B599-8395E3F14FEF",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -471,
+    "do_objectID": "3D8368A9-4851-46CA-A822-DC53B03286F4",
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "BD920D76-4905-42BE-B95E-27968B8B2BE1"
+    },
+    {
+      "class": "artboard",
+      "id": "6BAE8F2A-3BFF-4736-B0A3-E4985D49A2F5"
+    },
+    {
+      "class": "artboard",
+      "id": "F5FD12EC-D220-49FD-8C9D-D910EFB06A00"
+    },
+    {
+      "class": "artboard",
+      "id": "39F5A73D-C72A-4DE3-92CE-FB21060AAC92"
+    },
+    {
+      "class": "artboard",
+      "id": "8CB8EB82-9E69-46F1-9474-965FEDEFDBB1"
+    },
+    {
+      "class": "artboard",
+      "id": "2D910354-2323-48A4-B4C6-6AFB0599E727"
+    },
+    {
+      "class": "artboard",
+      "id": "3E2CCB6E-1302-4E3A-A2EE-55404F765D6F"
+    },
+    {
+      "class": "artboard",
+      "id": "A6E5267D-17B1-43F5-B2A7-C08CB1B99066"
+    },
+    {
+      "class": "artboard",
+      "id": "C37ABA5A-02E4-4689-969B-BE74E02274D4"
+    }
+  ],
+  "name": "Event Management - Private",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0E4E8422-5036-4B12-9E3A-7E1B4F36FEC8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -405,
+    "do_objectID": "0894DF4C-08B2-499B-8366-D24D502CED53",
+    "guides": [
+    ]
+  }
+}

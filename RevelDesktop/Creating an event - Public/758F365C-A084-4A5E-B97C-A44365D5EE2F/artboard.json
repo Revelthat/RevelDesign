@@ -1,0 +1,129 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4C496D03-697E-49B8-99C1-FED2A85FA98F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "758F365C-A084-4A5E-B97C-A44365D5EE2F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4BFE821C-F1B1-4C0B-A4A8-10CB2C71F868",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C102D21A-67B1-471B-A475-3D91EB41CB32",
+    "height": 1024,
+    "width": 1440,
+    "x": 1869,
+    "y": -427
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "04E6A905-5F76-45AC-B75C-5571C8393DDA",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "09C5CBC5-1341-410C-96A1-50A5209ED7B8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2F3349F2-E11C-4F06-92A9-E5DD25FD469A"
+    },
+    {
+      "class": "rectangle",
+      "id": "961DFE40-1784-4EA2-866B-2A90AD1A8309"
+    },
+    {
+      "class": "text",
+      "id": "20C3D626-881C-48F3-BF7E-89C18F473892"
+    },
+    {
+      "class": "shapePath",
+      "id": "761AF87F-F0E1-4013-AA1D-68629E46229E"
+    },
+    {
+      "class": "text",
+      "id": "AE47E9DB-9994-45EB-9FF0-985719616FFA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7299497D-A1F5-4B59-A2A6-5AD2B8B8C9DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "396CE957-AC1E-4AD1-B478-2D04E07D44A2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "885D39A5-FCF0-41EB-A0E6-EB4314D28AA3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3624A47F-8DAC-4AD6-A065-550D15255E03"
+    }
+  ],
+  "name": "Creating an event Modal",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D2EE5A54-1AC9-48AB-A37C-700198D8455D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4FF49074-76E9-46EE-A056-2ED7DE9C0E83",
+    "guides": [
+    ]
+  }
+}

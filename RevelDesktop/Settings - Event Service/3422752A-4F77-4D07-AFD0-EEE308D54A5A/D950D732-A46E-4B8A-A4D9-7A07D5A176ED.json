@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D950D732-A46E-4B8A-A4D9-7A07D5A176ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E1963A9-F389-4C7F-AA51-6ACF8BDCCCB2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2981E1A5-0A71-4A5A-A819-961B09C41BC8",
+    "height": 47,
+    "width": 700,
+    "x": 481,
+    "y": 239
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input / Credit Card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FEBF0599-B279-444C-A2D8-4330789A1B0F",
+      "overrideName": "B105FC44-6F0A-4590-A357-B2EC84AB8E7F_stringValue",
+      "value": "max@revelthat.com"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D3E0B40C-BABA-422F-957D-7E82611C2B5C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "98262D02-F513-44DF-A7ED-788172887C08",
+  "verticalSpacing": 0
+}

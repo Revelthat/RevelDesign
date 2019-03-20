@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "49BD747E-6D63-4321-9A31-30F2B22C9AB7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 47,
+    "width": 360,
+    "x": 8,
+    "y": 327
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Messages / Message-EventHost-MOBILE",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "91147C5D-627D-46AD-8422-10C37C538A7B",
+      "overrideName": "24919FDA-0492-44F5-B504-9AAE7E4FBCB1_stringValue",
+      "value": "Hey Mr Burger, made the payment just then. Looking forward to having you at my event"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B7FD10A1-1980-43BB-BA59-641D0D90B725",
+      "overrideName": "2F392765-B472-45E1-B25C-B7122120F1B7/4C6714A3-CCE6-447E-8453-1D497F11E4E3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/91465362ea67659cf376daf6b0cfd6352ea16716.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "98FAAF65-E825-4F1A-BF9E-A6462E1E8B92",
+  "verticalSpacing": 0
+}

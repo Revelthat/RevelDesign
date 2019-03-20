@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AC242E2E-1567-4BA9-ADF6-4F35971A9D8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "29A85903-F51C-4A5D-804F-9BACC0ED80BB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6768732B-4988-44D5-8A3F-D85E03075C09",
+    "height": 65,
+    "width": 555,
+    "x": 353,
+    "y": 787
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input / Email Address",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6E9CC7D4-7661-4F5B-AB3D-5431B050DFF9",
+      "overrideName": "56A90D3C-DA4F-468C-8CA5-822A9C5AF137_stringValue",
+      "value": "Google"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A918C95-EC5A-47AA-B42C-57CAB5CF4D79",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AF9C92B9-0D47-4A34-877E-9E7D46BC9B70",
+  "verticalSpacing": 0
+}

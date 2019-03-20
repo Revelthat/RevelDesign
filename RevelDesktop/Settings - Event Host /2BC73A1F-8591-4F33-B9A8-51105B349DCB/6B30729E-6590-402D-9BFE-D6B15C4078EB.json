@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6B30729E-6590-402D-9BFE-D6B15C4078EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CF4427D7-B33C-45E3-BCBE-7EA9BC7CDF77",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6A2D25DF-4EB9-408D-9B5B-2A0BD482A0E4",
+    "height": 36,
+    "width": 145,
+    "x": 1234,
+    "y": 529
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Cancel",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D5A7EA66-3721-4ED9-B188-2D1B40067B10",
+      "overrideName": "9F810289-7169-40A8-9C1E-51CFE2AA04A6_stringValue",
+      "value": "Edit"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D8DEB710-35ED-4029-A735-3E2FE13152C9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A90D9EF8-627A-41D3-8CF3-9F8299654BF1",
+  "verticalSpacing": 0
+}

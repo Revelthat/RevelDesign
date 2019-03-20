@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "43B1E640-72EF-449B-8ADC-3B8076B554B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "80DF7DC7-E1BF-4B38-AE1D-00304AE988AB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "221AB163-F8A3-4390-A5E5-BB157FFB1AEA",
+    "height": 54,
+    "width": 346,
+    "x": 8,
+    "y": 284
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input-Mobile / Event Name",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "299F3750-D5D0-4DAB-89A5-888FAAA9747E",
+      "overrideName": "C53288FD-BFAA-48C9-9C6E-2019D9056BB1_stringValue",
+      "value": "What is your event About?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F962222E-C541-477C-95B5-68982D117985",
+      "overrideName": "17FABD4D-2E4A-4059-92A7-05794F2353F0_stringValue",
+      "value": "Description"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "37CB5F2A-3009-4D08-AD7E-AF6FAB79E1DF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B3FB3446-0B16-4366-975C-296FB9283A42",
+  "verticalSpacing": 0
+}

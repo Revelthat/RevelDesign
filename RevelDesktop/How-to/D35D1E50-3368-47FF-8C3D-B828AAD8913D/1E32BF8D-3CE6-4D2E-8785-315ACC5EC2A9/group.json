@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1E32BF8D-3CE6-4D2E-8785-315ACC5EC2A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "41DBF02E-2A4F-4729-8503-630851F8BC22",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9DF954FB-9830-4997-BAE6-898D038CEE85",
+    "height": 1101,
+    "width": 849,
+    "x": 68,
+    "y": 451
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "58903AD8-E7CE-4E55-9A7C-2819AB281CF6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E0AD2DAB-C250-4F17-918B-4992A01E7C95"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B8274716-08CE-49DD-924B-F0161FEF1EDC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "87D3E862-01E3-4D20-8E23-7F904A4ED522"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ABB1FD2B-22B2-4D27-BCFD-4D38471382C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "29C7C12A-9E6A-4C2C-8D18-7976E7F7ADDC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0360E343-D695-4051-A80F-C28219E25152"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E4ACC017-EF03-4D55-8AFB-82BCE13BD627"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB7484CF-F782-44BD-A822-158F2849A259"
+    }
+  ],
+  "name": "Group 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5CD24DA1-42FA-43D8-AE0A-37DB600AD59F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

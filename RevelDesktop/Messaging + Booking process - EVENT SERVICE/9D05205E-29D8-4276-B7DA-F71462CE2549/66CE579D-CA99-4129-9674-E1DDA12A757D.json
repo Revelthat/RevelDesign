@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "66CE579D-CA99-4129-9674-E1DDA12A757D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B366BA19-DC75-449C-A7F1-4B1821DD6AFC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5407CD3B-B44A-4908-8DB3-E26BB33AD459",
+    "height": 28,
+    "width": 345,
+    "x": 15,
+    "y": 602
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button / Mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "116E3B3C-89D8-42F2-95CF-0C994B84B8C5",
+      "overrideName": "ADFC4AB4-299F-4B7F-9C05-C20AD777BC2B_stringValue",
+      "value": "Send Quote"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B0A81ADE-CD71-443D-A994-BCA1A98EE8C8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "85A38320-E3FD-4970-9AB8-1D7D4ADAADB9",
+  "verticalSpacing": 0
+}

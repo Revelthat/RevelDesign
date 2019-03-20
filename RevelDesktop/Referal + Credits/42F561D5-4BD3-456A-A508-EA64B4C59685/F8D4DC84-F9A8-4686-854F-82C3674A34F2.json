@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F8D4DC84-F9A8-4686-854F-82C3674A34F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "983BBFF8-28A6-471B-9AF1-399E673D2BAD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B55DA3C-627D-440F-BBC8-8BC82221F597",
+    "height": 142,
+    "width": 115,
+    "x": 274,
+    "y": 264
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Upcoming event card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "720E3408-AC41-483B-A07E-FC1BC42DDDF4",
+      "overrideName": "2290432E-304F-4508-9266-0C27413BE25A_stringValue",
+      "value": "Vegan Fes"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5511354A-6D14-42DF-83B8-1078298E1863",
+      "overrideName": "76F7E600-781D-4A69-AE38-DA043D48223E/4C6714A3-CCE6-447E-8453-1D497F11E4E3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/6cb8df82f34a33ebf91340e327e6d6a52f1bcf66.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9631FAA1-6183-475F-A243-C0C42103E7D4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AC3683AA-6D7C-41A8-8E12-93EBF38432B3",
+  "verticalSpacing": 0
+}

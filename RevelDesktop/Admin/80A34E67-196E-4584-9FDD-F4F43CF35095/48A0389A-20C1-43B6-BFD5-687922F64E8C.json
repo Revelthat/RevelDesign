@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "48A0389A-20C1-43B6-BFD5-687922F64E8C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "617BA9F8-B892-41B1-9F53-7155489B9725",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50A14743-8F7D-41CD-B13C-68163B99D966",
+    "height": 36,
+    "width": 173,
+    "x": 240,
+    "y": 210
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Cancel",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B689F399-E0B6-4B31-AE4F-93CA101E5F5B",
+      "overrideName": "9F810289-7169-40A8-9C1E-51CFE2AA04A6_stringValue",
+      "value": "Create new service +"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "982E0628-EE73-4B32-8F06-486B49AA4801",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A90D9EF8-627A-41D3-8CF3-9F8299654BF1",
+  "verticalSpacing": 0
+}

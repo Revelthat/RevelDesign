@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C383C1FB-62DE-41E2-B0C2-600CEEE40C86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A0135924-E4B4-4F62-B7EA-2AFFA6F75E3B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7C585174-3CD4-44C9-BCC3-074F5DAE9A65",
+    "height": 36,
+    "width": 145,
+    "x": 573,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Cancel",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "297400CA-8371-4499-8EAF-06D6F2010B38",
+      "overrideName": "9F810289-7169-40A8-9C1E-51CFE2AA04A6_stringValue",
+      "value": "Product Launch"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4713EC4A-9D5F-4BE3-9FEF-26D23397EF1B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A90D9EF8-627A-41D3-8CF3-9F8299654BF1",
+  "verticalSpacing": 0
+}

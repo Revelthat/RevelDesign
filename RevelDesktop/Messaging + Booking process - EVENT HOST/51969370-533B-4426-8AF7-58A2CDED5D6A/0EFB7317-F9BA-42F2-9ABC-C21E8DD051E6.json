@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0EFB7317-F9BA-42F2-9ABC-C21E8DD051E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "092E466B-6C66-429C-81DC-DC5E4ACFD6D2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E40649E1-19CE-479C-B3C0-67CC284F2FEE",
+    "height": 65,
+    "width": 343,
+    "x": 16,
+    "y": 77
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Messages / Card - MOBILE",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5DCD8815-9750-43FA-8299-86D723B54409",
+      "overrideName": "23D52298-83B2-409B-9815-B10BEB073B5C_stringValue",
+      "value": "Job request sent"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ED80150E-7F83-4FE0-A8ED-2B04D63036EC",
+      "overrideName": "F98061FF-0D3F-494B-9723-9F2FDE592ADF_stringValue",
+      "value": "Mr Burger"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "40D14D8E-2F96-4B9C-83A8-CEE5204092FF",
+      "overrideName": "850F40BA-DB3E-4B09-81C1-28BAABEF8ABA_stringValue",
+      "value": "Max's 50th"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DA1C54A4-164F-4DFA-AED3-19FAA39F1B4E",
+      "overrideName": "4874D206-E61A-4752-A595-B73891CCC217_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/04d2be9d3c37b02d3d37a850f0cb2f924f5c151e.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E61AA87A-26DB-4EF6-BF1B-A2EBE8837DA0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "581CA471-FAF4-4BE3-8E44-1E40CA0BF20A",
+  "verticalSpacing": 0
+}

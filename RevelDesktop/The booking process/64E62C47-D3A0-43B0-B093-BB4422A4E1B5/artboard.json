@@ -1,0 +1,161 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "97D8D036-644D-4A9E-9629-9AE7D40BA337",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "64E62C47-D3A0-43B0-B093-BB4422A4E1B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E324EC16-6C8D-4080-A9E5-92EFE91C45F9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28CC70B6-C315-4D4A-9C7B-76839315369A",
+    "height": 2734,
+    "width": 1440,
+    "x": 3028,
+    "y": -151
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "E9EE72B8-51C8-4475-B1D3-D6A4F5D7853A",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "63FD8750-6A7E-4A07-ADC2-BC530944DBD7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C9096C5C-5C06-4DE2-B2B6-EBDF1F414022"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D0C3B524-DF53-4572-ACD3-9625650F9E10"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B8AD50D-55E6-4B09-9BDB-FAA45436129B"
+    },
+    {
+      "class": "text",
+      "id": "98CB8EAA-7B45-49FE-A3FE-B72FB96172CA"
+    },
+    {
+      "class": "text",
+      "id": "A0873207-A507-4F57-90EC-0F954E1CDD52"
+    },
+    {
+      "class": "text",
+      "id": "3CA2C958-9F94-447C-877C-7800773D965C"
+    },
+    {
+      "class": "text",
+      "id": "D5C41FE8-1CE1-47BA-B7A0-B1A5AFD53AA4"
+    },
+    {
+      "class": "text",
+      "id": "48BFBC3C-1E07-4863-99AA-3DB1BD7470EF"
+    },
+    {
+      "class": "shapePath",
+      "id": "95526CB2-9838-4E12-ABC3-52599936C25D"
+    },
+    {
+      "class": "rectangle",
+      "id": "55E7E03B-A5CC-42DA-AA9E-2FC74FDE2FDD"
+    },
+    {
+      "class": "text",
+      "id": "1346ED2F-CEDF-464C-B4E5-B5C0ED2B598E"
+    },
+    {
+      "class": "text",
+      "id": "C1116C25-C56A-4BB0-82CF-8BC1B4325C8C"
+    },
+    {
+      "class": "bitmap",
+      "id": "30FD8D80-971E-4396-974E-A701A66018EF"
+    },
+    {
+      "class": "group",
+      "id": "5386BC4F-9C67-4068-AAE3-62FD85F7868A"
+    },
+    {
+      "class": "group",
+      "id": "84DA105B-3CA4-489D-92C8-7B51E4DE104F"
+    },
+    {
+      "class": "group",
+      "id": "43F7EEED-075C-48B1-8F88-B3C9C6A2710C"
+    },
+    {
+      "class": "group",
+      "id": "8BDA7374-0B02-4D5E-A869-BE6940C92B6A"
+    }
+  ],
+  "name": "Booking Process / Stage 3 - Desktop",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9BFD441B-ADE8-472A-A961-27FC95844827",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "18D0F18E-926A-4E77-90F0-2AE38B848FF4",
+    "guides": [
+    ]
+  }
+}

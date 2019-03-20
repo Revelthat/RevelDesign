@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9FF87328-737A-4DEC-9C81-2920F7272BC3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2B593E29-4E6B-4ABC-B362-D31F02126C5A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4E09A7DB-D383-4D82-A23B-AE14041D1494",
+    "height": 36,
+    "width": 145,
+    "x": 1233,
+    "y": 416
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Cancel",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "252338CB-3FBD-4A5D-A151-88FB2A995930",
+      "overrideName": "5C4C3C20-9A0C-486B-A021-70B0A5E4ECF1_stringValue",
+      "value": "Add Card"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E19748CB-F1A4-441C-A170-8C9D5F309547",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "282D5E0D-331A-430D-B95B-CD07BBF4D882",
+  "verticalSpacing": 0
+}

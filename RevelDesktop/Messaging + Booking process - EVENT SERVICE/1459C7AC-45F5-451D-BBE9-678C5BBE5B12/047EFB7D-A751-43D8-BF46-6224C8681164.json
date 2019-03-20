@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "047EFB7D-A751-43D8-BF46-6224C8681164",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "60A2F8C7-C694-45DD-AA4D-42A1F5708B66",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2E8FC258-AAC0-49BC-AA34-B99871814272",
+    "height": 28,
+    "width": 345,
+    "x": 15,
+    "y": 602
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button / Mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F2E69E1B-7EBE-4FE3-811C-D41449D6B52E",
+      "overrideName": "ADFC4AB4-299F-4B7F-9C05-C20AD777BC2B_stringValue",
+      "value": "Add"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7C698EFD-1E14-4A2D-A0C7-E6D7AD0B515C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "85A38320-E3FD-4970-9AB8-1D7D4ADAADB9",
+  "verticalSpacing": 0
+}

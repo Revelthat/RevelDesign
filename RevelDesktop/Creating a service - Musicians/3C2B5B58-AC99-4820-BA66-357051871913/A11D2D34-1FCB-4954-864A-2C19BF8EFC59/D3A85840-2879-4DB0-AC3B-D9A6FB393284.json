@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D3A85840-2879-4DB0-AC3B-D9A6FB393284",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6F385AB5-5C8D-4876-B3F0-5D53B652B1D0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "963FEDA6-B455-4937-9A7B-EE7BAECF6B39",
+    "height": 36,
+    "width": 145,
+    "x": 0,
+    "y": 60
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Cancel",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4FE70A7A-92B2-405F-9ECE-D6A58D87F642",
+      "overrideName": "9F6870CE-D9C0-4CA0-B07C-A16691480AB5_stringValue",
+      "value": "50th Birthdays"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A8A067E4-1489-4529-848F-0E4B12B2536A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2A7C1384-4B94-4EEF-A185-DD2C69EC0D61",
+  "verticalSpacing": 0
+}

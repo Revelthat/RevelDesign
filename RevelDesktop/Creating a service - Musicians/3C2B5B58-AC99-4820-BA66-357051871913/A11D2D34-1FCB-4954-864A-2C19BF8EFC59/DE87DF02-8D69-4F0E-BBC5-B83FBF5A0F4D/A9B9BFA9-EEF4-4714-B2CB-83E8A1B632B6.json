@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A9B9BFA9-EEF4-4714-B2CB-83E8A1B632B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "040121C5-583F-4E10-B021-06508BE5F487",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D904F1B9-281E-4CC7-BE0A-C13EB333B529",
+    "height": 36,
+    "width": 145,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Cancel",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "297400CA-8371-4499-8EAF-06D6F2010B38",
+      "overrideName": "9F810289-7169-40A8-9C1E-51CFE2AA04A6_stringValue",
+      "value": "Weddings"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7B95440F-E320-4BC6-8CC2-373660D232A9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A90D9EF8-627A-41D3-8CF3-9F8299654BF1",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "hover": {
+          "css": "transform: translate(0, -5px);",
+          "curve": "ease-in-out",
+          "duration": 0.2,
+          "modelID": "hover_6323c684-407d-4811-8a4d-bc66e49ce868",
+          "model_class": "ADModelHover",
+          "model_version": 0.1
+        },
+        "variableID": "buttonsCancel",
+        "variableIDSketchID": "A9B9BFA9-EEF4-4714-B2CB-83E8A1B632B6"
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

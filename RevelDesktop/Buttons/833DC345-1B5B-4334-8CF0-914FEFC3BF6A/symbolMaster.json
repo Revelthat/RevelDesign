@@ -1,0 +1,172 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "980A12AF-4627-4ADC-A145-44F845F4D49F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 498,
+  "clippingMaskMode": 0,
+  "do_objectID": "833DC345-1B5B-4334-8CF0-914FEFC3BF6A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A3F0482F-B84C-4966-8A63-63A347B0AB0B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "46B1C174-BF5C-48D6-BFB2-2B88206307CD",
+    "height": 36,
+    "width": 145,
+    "x": -6,
+    "y": -156
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "822B5F3C-96BA-419F-BBA6-5EF23E53FA64",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "89852ED2-B1AC-4A52-B363-4608AF1A5828"
+    },
+    {
+      "class": "text",
+      "id": "9F810289-7169-40A8-9C1E-51CFE2AA04A6"
+    }
+  ],
+  "name": "Buttons / Cancel",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9F810289-7169-40A8-9C1E-51CFE2AA04A6_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9F810289-7169-40A8-9C1E-51CFE2AA04A6_stringValue"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "907F3F6E-7D40-44B2-A8AB-FEBBC00AAC81",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A90D9EF8-627A-41D3-8CF3-9F8299654BF1",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "actions": [
+          {
+            "delayFromTrigger": 0,
+            "listeners": [
+              {
+                "event": "timer",
+                "modelID": "eventListener_9341b2e9-fec4-42e5-81bd-0cb2fc1c91f3",
+                "model_class": "ADModelEventListener",
+                "model_version": 0.1,
+                "timerMS": 0
+              }
+            ],
+            "modelID": "Transition_d79b0edf-0fbb-4186-9d57-ed5a016a93de",
+            "model_class": "ADModelActionScriptAnimation",
+            "model_version": 0.1,
+            "name": "Transition (Initial -> State1)",
+            "targetStateName": "state1",
+            "timelines": [
+            ],
+            "trigger": 0
+          },
+          {
+            "delayFromTrigger": 0,
+            "listeners": [
+              {
+                "event": "click",
+                "modelID": "eventListener_8c658f6e-c196-4829-8ede-81a72a94fe7c",
+                "model_class": "ADModelEventListener",
+                "model_version": 0.1,
+                "target": "this;buttonBackground",
+                "timerMS": 0
+              }
+            ],
+            "modelID": "Transition_a0f8f5b1-8f97-4058-aaac-90d888913ec0",
+            "model_class": "ADModelActionScriptAnimation",
+            "model_version": 0.1,
+            "name": "Transition (State1 -> State2)",
+            "originStateName": "state1",
+            "targetStateName": "state2",
+            "timelines": [
+            ],
+            "trigger": 0
+          }
+        ],
+        "defaultStateName": "state1",
+        "states": [
+          {
+            "model_class": "ADModelViewState",
+            "model_version": 0.1,
+            "name": "state1"
+          },
+          {
+            "model_class": "ADModelViewState",
+            "model_version": 0.1,
+            "name": "state2"
+          },
+          {
+            "model_class": "ADModelViewState",
+            "model_version": 0.1,
+            "name": "state3"
+          }
+        ],
+        "timelineType": "component",
+        "variableIDSketchID": "833DC345-1B5B-4334-8CF0-914FEFC3BF6A"
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "441F9684-2331-4CDC-9F52-1A6C25A3C6F4",
+    "guides": [
+    ]
+  }
+}

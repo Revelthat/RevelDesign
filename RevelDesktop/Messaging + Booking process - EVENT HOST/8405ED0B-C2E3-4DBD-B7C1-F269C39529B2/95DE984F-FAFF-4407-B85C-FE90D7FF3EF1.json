@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "95DE984F-FAFF-4407-B85C-FE90D7FF3EF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CA00ED1D-D0E7-454F-A2F3-156D39FC4603",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0E9CB72E-F805-4D41-81F8-19CB0ACF37A3",
+    "height": 62,
+    "width": 933,
+    "x": 476,
+    "y": 639
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "message-eventhost",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BCA071E-9304-4371-A2F1-D61A4E500545",
+      "overrideName": "9341F8C5-4285-4A68-8202-C590F41C55F0_stringValue",
+      "value": "Max Kelly has made payment."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D4583806-7024-4F38-8F77-87A10EDFBC69",
+      "overrideName": "E1C4D1E5-0B40-4462-9BD2-E664E045D098_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/64980da0b74c0813894d4db9e4afed7446181488.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "708BC357-4EEA-4DD2-A616-911D0AE697FE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5C5BCE53-A33C-4E41-ADBE-849730E62825",
+  "verticalSpacing": 0
+}

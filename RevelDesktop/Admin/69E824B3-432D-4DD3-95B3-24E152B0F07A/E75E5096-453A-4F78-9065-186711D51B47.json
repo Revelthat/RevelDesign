@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E75E5096-453A-4F78-9065-186711D51B47",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "014D9188-C6BA-4F96-944C-EA8E6332E60D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "38EAC5FB-DA29-47DE-922E-31E005F54A9A",
+    "height": 53,
+    "width": 736,
+    "x": 356,
+    "y": 951
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "company display",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8D21B6D3-D83A-464B-859F-D36391574ED3",
+      "overrideName": "68865A5F-9266-491C-A5EF-6E6297F628CE_stringValue",
+      "value": "Mr Burger"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3A849564-0D69-4A0A-9047-B25B574B33FC",
+      "overrideName": "EA7B023F-B16A-4C3F-BB51-F2781A20A408_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/04d2be9d3c37b02d3d37a850f0cb2f924f5c151e.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CCB04B68-6F65-4A67-9EF2-B81E683F71F8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DEACAB48-701A-4F70-AD06-E30D7F9C7BC4",
+  "verticalSpacing": 0
+}

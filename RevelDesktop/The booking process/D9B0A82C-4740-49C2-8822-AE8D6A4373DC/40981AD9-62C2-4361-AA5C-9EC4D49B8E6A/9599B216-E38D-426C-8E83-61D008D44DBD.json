@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9599B216-E38D-426C-8E83-61D008D44DBD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "67814A99-587F-41B3-9585-F4F66BD0C398",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FD3BF040-E105-4997-924F-B01BD1DDFC0A",
+    "height": 36,
+    "width": 145,
+    "x": 574,
+    "y": 550
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Create Event",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1F2BEBC2-ED78-4F16-9048-82F318B58F0A",
+      "overrideName": "5C4C3C20-9A0C-486B-A021-70B0A5E4ECF1_stringValue",
+      "value": "Sent!"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "11AD30CB-C5F6-4A7E-AC26-404CD6E99BED",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "282D5E0D-331A-430D-B95B-CD07BBF4D882",
+  "verticalSpacing": 0
+}

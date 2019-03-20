@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D35BD1CD-405E-4572-9A69-764A9A3B1FB1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A6EF25DB-C955-445F-B5A2-D52E99759319",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "29D69673-82E1-41B4-AB54-420118F8CD38",
+    "height": 47,
+    "width": 715,
+    "x": 466,
+    "y": 638
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input / Credit Card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FEBF0599-B279-444C-A2D8-4330789A1B0F",
+      "overrideName": "B105FC44-6F0A-4590-A357-B2EC84AB8E7F_stringValue",
+      "value": "Male"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D4EC351F-1E86-43C4-9515-81756DDD4B53",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "98262D02-F513-44DF-A7ED-788172887C08",
+  "verticalSpacing": 0
+}

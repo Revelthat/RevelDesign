@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "209E5CE4-A017-454B-88EA-C0D669D2671B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "390641E1-5050-4840-A2A1-8BABA6410D96",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BF0529BA-3BE2-4B75-A007-E0D8A4AE1F66",
+    "height": 65,
+    "width": 551,
+    "x": 49,
+    "y": 1132
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input / Dropdown",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF25938A-A66E-4E04-938B-D3C83145907D",
+      "overrideName": "D50BE34F-DCDA-434E-8173-3525FDA5BB87_stringValue",
+      "value": "Select card or create a new one"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "900D7211-29E8-4BE0-B222-06234459CBE0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "19B8CE56-82FA-4D26-AE6D-5EB344017F2A",
+  "verticalSpacing": 0
+}

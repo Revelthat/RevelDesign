@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ECBC1F82-F5AA-4744-87CA-EFB82B569FB4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5D044E92-EAE9-415C-91C2-021BE95EBD4A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E5D6AEB-58B4-49F7-B5B6-479ED6383C1C",
+    "height": 42,
+    "width": 873,
+    "x": 284,
+    "y": 1620
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / EF6248",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B3F6AEC-F880-4A0F-9E8D-ACF128B1C370",
+      "overrideName": "9F6870CE-D9C0-4CA0-B07C-A16691480AB5_stringValue",
+      "value": "Create my event!"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0799AE59-73F4-43C0-AAE0-4E7FDB67B08B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2A7C1384-4B94-4EEF-A185-DD2C69EC0D61",
+  "verticalSpacing": 0
+}

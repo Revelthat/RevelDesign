@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "81EFFD74-7B57-41E6-9712-B7C0586AD05A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "64357C64-B347-4E47-81D0-0EA08DE8E651",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F061148A-4ACD-4A2F-A243-BBDF0249D2D2",
+    "height": 137,
+    "width": 145,
+    "x": 192,
+    "y": 181
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Service Card / Mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C06185AE-953F-402E-AE55-143AEA206E6D",
+      "overrideName": "70D403E9-3C69-4422-A1B3-1AE4D8C19795_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8673395cb0255e870b29de75982e026ae6a657f3.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AB72CF4B-7BD2-4664-858F-9C9077548053",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4BB46EBB-D156-492F-B8CB-3AC347EDC690",
+  "verticalSpacing": 0
+}

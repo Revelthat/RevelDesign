@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3EA94375-8E55-4981-A00F-64A7536A5B51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "22E8CD2C-6E84-4B25-9E9C-0844F4769682",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9BA038B9-9B8B-44E4-8154-482251C63928",
+    "height": 36,
+    "width": 264,
+    "x": 588,
+    "y": 501
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Create Event",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "768A70A5-8F91-4770-9A99-93CE00D4C8F4",
+      "overrideName": "ADFC4AB4-299F-4B7F-9C05-C20AD777BC2B_stringValue",
+      "value": "Select image from computer"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9A2285D8-19E1-499B-9D0E-2ADA6B519DA8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "85A38320-E3FD-4970-9AB8-1D7D4ADAADB9",
+  "verticalSpacing": 0
+}

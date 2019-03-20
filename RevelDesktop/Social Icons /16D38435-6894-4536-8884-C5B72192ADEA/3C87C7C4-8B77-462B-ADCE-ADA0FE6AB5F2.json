@@ -1,0 +1,98 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3C87C7C4-8B77-462B-ADCE-ADA0FE6AB5F2",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9617914F-1F9B-44BD-8CF6-BC38B06F4766",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1,
+    "width": 1,
+    "x": 470.1251,
+    "y": 65.15679999999998
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Fill 45",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 0,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.016999999999995907, 0.053999999999973625}",
+      "curveMode": 4,
+      "curveTo": "{0.026999999999986812, 0}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.026999999999986812, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.028999999999996362, 0.21500000000003183}",
+      "curveMode": 4,
+      "curveTo": "{0.0099999999999909051, 0.11000000000001364}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0, 0.16499999999996362}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.081999999999993634, 0.31700000000000728}",
+      "curveMode": 4,
+      "curveTo": "{0.052999999999997272, 0.26700000000005275}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.081999999999993634, 0.31700000000000728}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B6C85C13-DD36-411D-B449-C8FD4B9E7919",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.267,
+          "green": 0.267,
+          "red": 0.267
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

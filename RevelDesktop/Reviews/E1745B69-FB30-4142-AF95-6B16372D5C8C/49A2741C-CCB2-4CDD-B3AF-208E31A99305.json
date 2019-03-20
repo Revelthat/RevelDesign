@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "49A2741C-CCB2-4CDD-B3AF-208E31A99305",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 455,
+    "width": 617,
+    "x": 1132,
+    "y": 247
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Reviews / Rating Process",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2D292539-3C5F-4E47-90F3-6FD60FBC7F96",
+      "overrideName": "A0BDC92F-8A28-46C6-9F3A-6177098A9287_symbolID",
+      "value": "A62DC0FA-8FDE-43CF-BA6B-675E844F81B9"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "75F81C00-F53C-4864-9840-0E875CCF902F",
+      "overrideName": "DE2DEDF3-F9DF-4F4F-86E6-9721D54D3646/4C6714A3-CCE6-447E-8453-1D497F11E4E3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/beeacfb638e8d2b7bdc39d22d6ba1b2f3140de56.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B00049F-3A9D-417D-ABDE-AC494B22F4B8",
+      "overrideName": "05F69908-8B5B-4EB4-994F-6438CA830491_stringValue",
+      "value": "Blendco."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D753E60B-F7EB-4209-9009-B8D3972E03B1",
+  "verticalSpacing": 0
+}

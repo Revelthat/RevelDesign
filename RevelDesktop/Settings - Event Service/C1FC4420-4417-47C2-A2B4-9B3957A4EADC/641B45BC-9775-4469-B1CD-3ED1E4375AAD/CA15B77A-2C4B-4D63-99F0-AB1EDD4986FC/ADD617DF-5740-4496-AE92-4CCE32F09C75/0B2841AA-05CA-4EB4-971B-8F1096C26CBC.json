@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0B2841AA-05CA-4EB4-971B-8F1096C26CBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1EF796DF-D409-47C9-9BAB-5B4DFF77ADDA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "773B9502-C459-4CFD-A493-F7054C3B91CB",
+    "height": 47,
+    "width": 459,
+    "x": 0,
+    "y": 44
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input / Credit Card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6BC59436-6F98-46EB-B7A4-6EA699DC2B77",
+      "overrideName": "B105FC44-6F0A-4590-A357-B2EC84AB8E7F_stringValue",
+      "value": "e.g. Victoria"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7AD3CF37-D2E4-4D27-8BF7-716DA6A4515D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "98262D02-F513-44DF-A7ED-788172887C08",
+  "verticalSpacing": 0
+}

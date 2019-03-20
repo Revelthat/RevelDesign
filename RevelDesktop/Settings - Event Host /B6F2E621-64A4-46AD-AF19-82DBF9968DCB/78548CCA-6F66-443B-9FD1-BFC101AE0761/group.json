@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "78548CCA-6F66-443B-9FD1-BFC101AE0761",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "70CEEB42-736A-4328-A415-230A4737D2C5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3C3FC4AB-72CA-4554-8CB3-0A9EE75B6F65",
+    "height": 105,
+    "width": 253,
+    "x": 276,
+    "y": 358
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "92E073AF-2228-498E-97AA-BCE9313ED250"
+    },
+    {
+      "class": "text",
+      "id": "654B15CE-5DC7-4C99-A6E6-297C9180EB5D"
+    },
+    {
+      "class": "text",
+      "id": "00F3300D-5F6D-4112-AAF4-836D227C7825"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A045354-1CBA-4D4F-A88C-6F665100433A"
+    }
+  ],
+  "name": "ReviewCard / Mobile",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3910B144-EEDD-44DA-91E5-8C2EADF571C8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

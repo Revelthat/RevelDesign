@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7EC41683-F235-4638-88CF-639CEF8CE3C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF298D1C-CC95-469F-A7EF-D9078AED8DD2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FD5976FF-5F24-4E1E-9388-2EB43AEE8CE2",
+    "height": 142,
+    "width": 115,
+    "x": 142,
+    "y": 164
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Upcoming event card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "21DD8442-56E3-4B20-BACA-6E136755779F",
+      "overrideName": "A301A96A-2286-43BD-A4CF-D7D148F8210C_stringValue",
+      "value": "Product Lau.."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A5ED8BDD-BE1B-4D72-BFAF-14D9074D0B4B",
+      "overrideName": "4AE05B65-F3BD-46FA-9C79-3DC3A914B490/4C6714A3-CCE6-447E-8453-1D497F11E4E3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/26ad5fd253fb76fe5ac2a567ef1d73b1ffff3e58.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C6B82A99-A3AE-467E-AF51-EE1518EE6F24",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "331E4414-1C9C-4B4D-9826-C4FE7DAAC665",
+  "verticalSpacing": 0
+}

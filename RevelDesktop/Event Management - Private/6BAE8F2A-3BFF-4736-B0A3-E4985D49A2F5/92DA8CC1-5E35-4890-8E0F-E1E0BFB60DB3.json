@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "92DA8CC1-5E35-4890-8E0F-E1E0BFB60DB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E49C8A63-6C7A-4E44-853C-293609677969",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F07F30A8-6987-4F3D-AB64-BCF6BCD86AD7",
+    "height": 42,
+    "width": 298,
+    "x": 39,
+    "y": 512
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "event-card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B9315777-55BB-47D8-AA6F-0C8AA8D87A8A",
+      "overrideName": "3F22CB9B-F9D6-4F12-9056-A5E984C8CAB9_stringValue",
+      "value": "July 12th 18"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2EA314AC-A14E-4B53-8DD9-E44B3F7A9525",
+      "overrideName": "F6296466-A9F2-4839-89A5-E6DC30B0EB5F_stringValue",
+      "value": "Revel Launch -"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8B94ED39-6DCF-4A4D-9DD7-919A151BA0EE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "280C325E-09DC-4FF8-A03C-4660B2A5E506",
+  "verticalSpacing": 0
+}

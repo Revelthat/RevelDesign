@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "27D2F526-4440-4246-A948-B2F03A837391",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E11314F0-DCB5-4F86-956F-3D1C233BA349",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "384BD487-3ED2-4461-8793-8A335756B7AC",
+    "height": 75,
+    "width": 343,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input / First Name",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "040B85E2-306C-423C-BF77-8C65FD1B2141",
+      "overrideName": "534560DA-1CE4-4AD1-BBB6-FC69D331940D_stringValue",
+      "value": "Street Address"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8E0662D4-F20F-47B0-8CAA-2738C0A9A77B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "12632A4D-4F3C-474F-B295-7527130C3739",
+  "verticalSpacing": 0
+}

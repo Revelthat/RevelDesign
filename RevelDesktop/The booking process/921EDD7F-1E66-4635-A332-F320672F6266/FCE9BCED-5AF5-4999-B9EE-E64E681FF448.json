@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FCE9BCED-5AF5-4999-B9EE-E64E681FF448",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5D985F8A-13A1-4846-85DB-A5BB5F8CC2D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "53165D91-2631-4C81-8617-8E598EFA3B44",
+    "height": 137,
+    "width": 145,
+    "x": 13,
+    "y": 1350
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Service Card / Mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BF8F2BFB-9B48-402B-A27B-57640305374E",
+      "overrideName": "40B96CB6-D214-4E55-88CA-5B18D3A69828_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/04d2be9d3c37b02d3d37a850f0cb2f924f5c151e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "48F2BD51-FA90-4F26-9758-ABF7275B210F",
+      "overrideName": "70D403E9-3C69-4422-A1B3-1AE4D8C19795_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/96ec90e1226e258236aca02dfcf92fbf447296da.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5736E3DE-F35F-4379-9E8B-0E9184518D2C",
+      "overrideName": "77E43DB7-8580-4A96-900F-214BF00B6F45_stringValue",
+      "value": "Food Truck"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8711E855-2466-41BD-9BC1-8DE8610F7E45",
+      "overrideName": "A3124FF1-685A-4931-8496-C84DAE628AA5_stringValue",
+      "value": "Ribs & Burgers"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "54BE5D85-D305-4B35-B9BE-C4E169508FF0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4BB46EBB-D156-492F-B8CB-3AC347EDC690",
+  "verticalSpacing": 0
+}

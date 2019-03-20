@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC7C128D-657D-4BFE-ADFB-8930EED798F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "119DB079-ADA6-4D2E-963D-BDF78CDE314D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "68C6392E-5550-4F54-ACF1-B0CC7069C1AF",
+    "height": 776,
+    "width": 1265,
+    "x": 88,
+    "y": 273
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Data / Users",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "68FD69D9-1861-43D2-9857-A6936C8E702A",
+      "overrideName": "FCFE116B-A425-44D6-B747-3CAED80FBAC5/CD57050A-F937-46D9-BA47-C5581115A171_stringValue",
+      "value": "Company Name"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B66457D2-3882-4117-ABC1-8BFFEF4A2416",
+      "overrideName": "FCFE116B-A425-44D6-B747-3CAED80FBAC5/874FE10F-D0FC-4263-9936-2DD189FE772C_stringValue",
+      "value": "Service Name "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "670740AD-0448-4275-93F7-99706F200863",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B96EBB2A-BC19-497C-A7A4-46EF75D27147",
+  "verticalSpacing": 0
+}

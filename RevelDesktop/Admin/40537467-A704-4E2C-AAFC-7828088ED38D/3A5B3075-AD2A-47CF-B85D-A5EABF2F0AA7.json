@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3A5B3075-AD2A-47CF-B85D-A5EABF2F0AA7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1BDCC044-A657-4F4C-B9FB-A1D9A60A5078",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F1293B0F-DC6A-439A-B1A4-95384CFE304D",
+    "height": 200,
+    "width": 736,
+    "x": 352,
+    "y": 533
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input / Description",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2756C939-22CA-4C9A-B6D6-59226282ED3C",
+      "overrideName": "B0A4B8B5-77A4-457D-805A-C45F6AFDF510_stringValue",
+      "value": "Enter description..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "20F3564C-05B2-425E-8B63-945840D10DD6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "853ECC75-B36C-4CDD-9C52-2D1DC3967AD3",
+  "verticalSpacing": 0
+}

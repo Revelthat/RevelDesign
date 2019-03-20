@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FEE53AEE-E01F-42AB-9EBC-A8DB2F6D9B21",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5765EB11-F34C-4365-A6F5-A9AFE2F54FFA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "731D3FED-0A63-45CA-A8D3-46A46A79241B",
+    "height": 75,
+    "width": 343,
+    "x": 361,
+    "y": 273
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input / First Name",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7E1E54CB-DF1D-4F3C-85B3-B1665CDA08DC",
+      "overrideName": "534560DA-1CE4-4AD1-BBB6-FC69D331940D_stringValue",
+      "value": "Enter Password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "700392B4-77DC-445A-A8B8-98C20CE85954",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "12632A4D-4F3C-474F-B295-7527130C3739",
+  "verticalSpacing": 0
+}

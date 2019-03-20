@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3F0FC2ED-3C81-4830-93EF-EF7B2C5D802C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AAA60F7E-803E-4C6A-B91B-AE8DFFD6C796",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "92937A4A-D85F-43DF-9598-56584594363E",
+    "height": 62,
+    "width": 1344,
+    "x": 32,
+    "y": 266
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Message card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "46B1FEC1-AFFD-4F06-A3A3-072482CE4D80",
+      "overrideName": "382F0E6D-882C-41BE-BCF6-4C94B4300139_stringValue",
+      "value": "Revel Support"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3E4AB643-F01B-42C9-9DE6-757F1683F559",
+      "overrideName": "40D2B734-A598-4D59-BF09-4D58B7DC79D6_stringValue",
+      "value": "."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "787432F8-9E18-488E-A00E-EAC904938CF3",
+      "overrideName": "1CF5E47E-DAF6-4F03-AB18-2488F1673424_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ca94c2c345e908cbde86c863b65a80cc91a60d57.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CFDE5313-E172-4857-AD7F-CFD553F00E86",
+      "overrideName": "70D2920B-BC84-4458-86F3-4FACEE341DA8_stringValue",
+      "value": "."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D285C680-3A93-46CD-B9DA-9C1F86D5105F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D8DB1E9E-FE83-4163-BF77-1EEABFCA5BE0",
+  "verticalSpacing": 0
+}

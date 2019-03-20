@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E3A3DB36-7DBA-48AC-87A8-5D87FB15DA2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FD0401B9-F9A2-49F0-A4F3-301951ABB6FC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3D472FA4-55D4-4A0C-A2A2-0AAC978DCA34",
+    "height": 54,
+    "width": 346,
+    "x": 8,
+    "y": 655
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input-Mobile / Event Name",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "299F3750-D5D0-4DAB-89A5-888FAAA9747E",
+      "overrideName": "C53288FD-BFAA-48C9-9C6E-2019D9056BB1_stringValue",
+      "value": "When will your event conclude?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F962222E-C541-477C-95B5-68982D117985",
+      "overrideName": "17FABD4D-2E4A-4059-92A7-05794F2353F0_stringValue",
+      "value": "Stop time"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4607C326-2E8D-4143-ABC3-B8A6398EA05F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B3FB3446-0B16-4366-975C-296FB9283A42",
+  "verticalSpacing": 0
+}

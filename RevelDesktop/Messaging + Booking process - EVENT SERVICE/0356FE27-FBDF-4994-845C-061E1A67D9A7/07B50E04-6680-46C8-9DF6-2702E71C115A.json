@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "07B50E04-6680-46C8-9DF6-2702E71C115A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "23C5CFCD-8B34-44B1-9DAD-1D4FA1FAA252",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "24DB33B6-83DC-4F18-B257-BA6F192DD9EF",
+    "height": 30,
+    "width": 360,
+    "x": 8,
+    "y": 245
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Messages / Message-MOBILE",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B2348D08-D90C-45DA-BC47-24DF41660AE1",
+      "overrideName": "D4AD4C54-252D-49F8-8AF3-EC31EFF8F1E8/4C6714A3-CCE6-447E-8453-1D497F11E4E3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/04d2be9d3c37b02d3d37a850f0cb2f924f5c151e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2733FB5E-F269-4D0A-AB76-4CFB72512BBF",
+      "overrideName": "0207D7FE-5D3F-409B-B564-49949FF793F8_stringValue",
+      "value": "Click to create quote"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "21EFBBC1-5416-47CD-8952-C197F3796D1B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DD0E94B0-8658-4A9A-9911-0D1AAFA94030",
+  "verticalSpacing": 0
+}

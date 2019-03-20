@@ -1,0 +1,113 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A9F8F2CC-5555-4FBA-B193-34B4E4995BDC",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4A81A5A0-EDD3-406F-A63E-45110765CF6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B72DAFB-4314-40F1-848E-F9242B8960B5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "645E1C57-85E7-413B-AE9E-1CA1C589715B",
+    "height": 1024,
+    "width": 1440,
+    "x": 8866,
+    "y": -472
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "21CB9EFE-2229-4535-8B06-F51DABB7BAE5",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0122A8DA-2A2E-4D23-A060-37915F8486BD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "52FEFA53-89F5-4816-8E88-835AD3E91FA6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "729F2CC4-8592-485F-A43E-9A66FC03C6ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2ABEA34F-8B2D-4237-9678-F62ECB69D6DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0541F673-60A7-4207-88DE-3B1F4CA399C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F4AF43AE-F5A1-463C-9EE3-898CAE610230"
+    }
+  ],
+  "name": "Inbox / Job request sent",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "66AA8125-E12A-4B60-A7CF-A36E4078B111",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4AFC2D8F-21EA-41D2-B89C-A0258EC51601",
+    "guides": [
+    ]
+  }
+}

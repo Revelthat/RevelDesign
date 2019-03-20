@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BFFAA5B5-4320-478B-BD30-C5A5C9147FDC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5896BEB2-CC6E-4726-95B2-099AAC4C9ACF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7239EDCB-EB6D-4C08-8ABB-9ED5B5B798D2",
+    "height": 1101,
+    "width": 849,
+    "x": 68,
+    "y": 451
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "FC6B88EC-7FA6-4F3E-911D-9FCBBAC95F9D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "30B28D54-C525-4D23-9F9C-E328D6603EFB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81FD8675-2614-4250-9A9B-6FA0428DA189"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28FB5DBB-4C29-417D-B954-A7DFD0D1666A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A97F582A-129C-42DF-8550-A5E8504E3572"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C1E4823-3602-49AB-B8D1-64A98DDDDEA8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7D71A7A6-D95B-4F66-A631-0A6AF0AAD777"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26CAA10C-4932-41BE-ABBB-0F232A807B6A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "604636F5-FECC-432F-87C2-F295DD1185F5"
+    }
+  ],
+  "name": "Group 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "759356D6-8D32-46DC-AEA8-9C4AFBECFAD0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

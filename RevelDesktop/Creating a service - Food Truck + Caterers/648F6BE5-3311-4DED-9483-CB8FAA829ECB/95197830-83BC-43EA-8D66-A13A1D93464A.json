@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "95197830-83BC-43EA-8D66-A13A1D93464A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "038A1966-8EE3-4995-AB52-5A1D5279C240",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A8B3AA6B-5489-4DFB-B16A-766ECA90352A",
+    "height": 51,
+    "width": 357,
+    "x": 9,
+    "y": 371
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input / Menu Name - MOBILE",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FB837980-23F0-485B-A2E2-C9CF6DBD10B0",
+      "overrideName": "87B26031-7B3B-4AB5-AD5E-CD1FF6E38D2C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E015486A-BA8D-48EF-82AE-C8322A49725A",
+      "overrideName": "BAD4436B-3A06-4807-88BB-19D49827A6D7_stringValue",
+      "value": "Select which menu"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C65401E1-0BBB-4A19-BB63-65736EE44A44",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "905018ED-7AD7-43D9-9A8B-507809CF919B",
+  "verticalSpacing": 0
+}

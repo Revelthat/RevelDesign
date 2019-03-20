@@ -1,0 +1,157 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D80CDEE9-45F1-4DD8-8F72-E3090C27C35E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 683,
+    "x": 297,
+    "y": 211
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5F454749-CB88-40CB-AE2A-656D0B0DB325"
+    },
+    {
+      "class": "text",
+      "id": "B04806B4-4BDD-49FB-9BFC-2A5D1C33F2FC"
+    }
+  ],
+  "name": "Buttons / Primary",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "actions": [
+          {
+            "delayFromTrigger": 0,
+            "listeners": [
+              {
+                "event": "timer",
+                "modelID": "eventListener_b35f5cb0-0124-402f-8a88-b8af7a4c1da1",
+                "model_class": "ADModelEventListener",
+                "model_version": 0.1,
+                "timerMS": 0
+              }
+            ],
+            "modelID": "Transition_55dc6637-d54e-4404-85ae-3b374767e18d",
+            "model_class": "ADModelActionScriptAnimation",
+            "model_version": 0.1,
+            "name": "Transition (Initial -> State1)",
+            "targetStateName": "state1",
+            "timelines": [
+            ],
+            "trigger": 0
+          },
+          {
+            "delayFromTrigger": 0,
+            "listeners": [
+              {
+                "event": "click",
+                "modelID": "eventListener_40e3e14a-5d19-4c63-9f7e-37701f75d52a",
+                "model_class": "ADModelEventListener",
+                "model_version": 0.1,
+                "target": "this;buttonBackground",
+                "timerMS": 0
+              }
+            ],
+            "modelID": "Transition_8ec1d842-63b0-4bc7-849e-68bc8fe23a6f",
+            "model_class": "ADModelActionScriptAnimation",
+            "model_version": 0.1,
+            "name": "Transition (State1 -> State2)",
+            "originStateName": "state1",
+            "targetStateName": "state2",
+            "timelines": [
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 0.2,
+                    "modelID": "animation_6c59ac35-f340-43f7-b1b5-54bcdd972446",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0.1,
+                    "state": {
+                      "alpha": 0
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_eb881ef1-6a01-4f1b-9deb-f8cc3dcdfc7f",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0.1,
+                "target": "this;oK"
+              }
+            ],
+            "trigger": 0
+          }
+        ],
+        "defaultStateName": "state1",
+        "states": [
+          {
+            "model_class": "ADModelViewState",
+            "model_version": 0.1,
+            "name": "state1"
+          },
+          {
+            "model_class": "ADModelViewState",
+            "model_version": 0.1,
+            "name": "state2",
+            "overrides": {
+              "this;oK": {
+                "alpha": 0
+              }
+            }
+          },
+          {
+            "model_class": "ADModelViewState",
+            "model_version": 0.1,
+            "name": "state3",
+            "overrides": {
+              "this;oK": {
+                "alpha": 0
+              }
+            }
+          }
+        ],
+        "timelineType": "component",
+        "variableIDSketchID": "D80CDEE9-45F1-4DD8-8F72-E3090C27C35E"
+      }
+    }
+  }
+}

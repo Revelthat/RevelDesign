@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B2CE1BD-7A27-4E4E-B4C3-176988EFF1EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CEA500A7-7F4F-40D6-9E4D-C45434FFA2FF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C415AAE7-3135-4223-BDD1-E608FD0A789C",
+    "height": 42,
+    "width": 298,
+    "x": 39,
+    "y": 389
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "event-card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B9315777-55BB-47D8-AA6F-0C8AA8D87A8A",
+      "overrideName": "3F22CB9B-F9D6-4F12-9056-A5E984C8CAB9_stringValue",
+      "value": "July 12th 18"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2EA314AC-A14E-4B53-8DD9-E44B3F7A9525",
+      "overrideName": "F6296466-A9F2-4839-89A5-E6DC30B0EB5F_stringValue",
+      "value": "Max's 21st -"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34BA85BD-CE44-4061-B6FA-40466B846EB8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "280C325E-09DC-4FF8-A03C-4660B2A5E506",
+  "verticalSpacing": 0
+}

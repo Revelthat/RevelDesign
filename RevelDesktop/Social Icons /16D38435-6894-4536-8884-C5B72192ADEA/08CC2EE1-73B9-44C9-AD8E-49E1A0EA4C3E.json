@@ -1,0 +1,98 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "08CC2EE1-73B9-44C9-AD8E-49E1A0EA4C3E",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C29CD62-3718-423B-BA9A-DA4AD642827D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1,
+    "width": 1,
+    "x": 481.9799,
+    "y": 53.08749999999998
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Fill 44",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 0,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.26699999999999591, 0.052000000000020918}",
+      "curveMode": 4,
+      "curveTo": "{0.31799999999998363, 0.08100000000001728}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.31799999999998363, 0.08100000000001728}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.1069999999999709, 0.0099999999999909051}",
+      "curveMode": 4,
+      "curveTo": "{0.21299999999996544, 0.027000000000043656}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.16100000000000136, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0.032000000000039108}",
+      "curveMode": 4,
+      "curveTo": "{0.053999999999973625, 0.02100000000007185}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0, 0.032000000000039108}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E4ACF1CF-F77B-48E0-AC71-ABEAFC4B33B3",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.267,
+          "green": 0.267,
+          "red": 0.267
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

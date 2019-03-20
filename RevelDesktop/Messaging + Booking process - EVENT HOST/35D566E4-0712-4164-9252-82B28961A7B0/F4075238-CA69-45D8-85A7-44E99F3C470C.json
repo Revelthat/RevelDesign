@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F4075238-CA69-45D8-85A7-44E99F3C470C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51FA91C5-5EC1-4820-8A40-349167ADED52",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "635C982A-384D-4F54-86E0-BEF1A4F40C2E",
+    "height": 160,
+    "width": 933,
+    "x": 480,
+    "y": 432
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Message-quote&deposit",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C57AA3D0-AC96-476B-9FAD-9F4926BE513B",
+      "overrideName": "63A985D6-B594-4041-AFB5-A61AF03310FD_stringValue",
+      "value": "$5000"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3911D50A-E978-4B86-9AC7-EB087C8D98D4",
+      "overrideName": "42C542E4-ED10-42CD-8495-F25D4E9E1EE5_stringValue",
+      "value": "Paid"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "27CC7434-CCAC-4FC7-85E1-2C77C5A15C0D",
+      "overrideName": "0B3287EC-60D9-4FB3-9F3E-844948922414_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/04d2be9d3c37b02d3d37a850f0cb2f924f5c151e.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D675818D-A911-4573-A75B-3BF631541330",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "66485717-A9C0-4797-A248-F2C2DE850D49",
+  "verticalSpacing": 0
+}

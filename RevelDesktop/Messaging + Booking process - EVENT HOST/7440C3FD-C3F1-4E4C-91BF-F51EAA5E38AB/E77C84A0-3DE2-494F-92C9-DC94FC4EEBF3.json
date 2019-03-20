@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E77C84A0-3DE2-494F-92C9-DC94FC4EEBF3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 104.0942779386338,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navbar / Top-DropDown-MOBILE",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE689878-6317-44C0-B53B-E32189482D50",
+      "overrideName": "31EBCD15-8FBC-4A16-907C-FC0C79D7FBE4_stringValue",
+      "value": "Job confirmed"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F54E2388-470C-48D8-9E35-3F57B0276C1D",
+      "overrideName": "738383DA-4D89-4F1A-BEF3-C562686BA0B2_stringValue",
+      "value": "Quote received"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "39E27066-F3C7-41DD-B7EF-6699113B4909",
+      "overrideName": "1E39915B-D455-481A-B91B-92438DF194BA_stringValue",
+      "value": "Job request sent"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "55950F53-4AA9-4F7E-8268-0B02F9CD172C",
+  "verticalSpacing": 0
+}

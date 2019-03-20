@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "71E83272-235F-41A7-84D6-30CFEC100F6E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1CCBEDC7-7AB6-4815-8C65-35985BFEC90A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "58085A9C-63EF-400D-A221-0B0EEB93ECE7",
+    "height": 65,
+    "width": 327,
+    "x": 393,
+    "y": 99
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Search / Catergory",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E0D1BEE7-82E0-4F7A-BE01-7A6070E61AC7",
+      "overrideName": "AA062784-F20E-40FF-93E0-89893B6075E1_stringValue",
+      "value": "Events"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C17A719-162C-4088-B7D4-23C5277BAB0B",
+      "overrideName": "623BD899-17B8-49C4-BE8C-42F66EF055D4_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/bd1820023b585c8664af2df3b784abafc721a8e0.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3EFFE991-8358-4640-A0A4-48A1739756F7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "689981CE-34E4-4DAD-B8F1-796CBCCF8E7F",
+  "verticalSpacing": 0
+}

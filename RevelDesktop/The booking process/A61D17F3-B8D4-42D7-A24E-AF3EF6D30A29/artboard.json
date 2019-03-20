@@ -1,0 +1,109 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CE3C6890-24BD-4624-9966-CF2CB3BFCED3",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A61D17F3-B8D4-42D7-A24E-AF3EF6D30A29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CAB11CE9-27AC-4431-97BE-AA5F286C0855",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4D0892AF-6D5D-42A5-9709-877D88FD9795",
+    "height": 667,
+    "width": 375,
+    "x": 1323,
+    "y": -1973
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "F024173D-428A-429C-BF46-03D2A639C561",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "19F77762-DF22-4520-94ED-48BC85E62090",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "FA197F4A-AB9A-41D8-BA95-5FF449056E8F"
+    },
+    {
+      "class": "text",
+      "id": "8CB0D8B1-B46A-458D-9F34-4128746D4E0B"
+    },
+    {
+      "class": "group",
+      "id": "6C9A892A-223C-47BB-9068-C8FA3B1F1010"
+    },
+    {
+      "class": "group",
+      "id": "8934D364-291F-48D4-B73C-45024EFE6D5A"
+    }
+  ],
+  "name": "Booking process / Menu ",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3361A4F2-46E2-4AF9-A01C-C735CEB967FB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CD2609B5-2035-4EE9-A7FC-EC12362DB1F2",
+    "guides": [
+    ]
+  }
+}

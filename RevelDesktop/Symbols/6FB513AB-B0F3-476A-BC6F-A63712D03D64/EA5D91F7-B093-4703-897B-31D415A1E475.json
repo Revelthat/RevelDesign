@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EA5D91F7-B093-4703-897B-31D415A1E475",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B0C9C5E2-1FA1-4220-8D71-D4D5ACC92D40",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4257927B-DDF7-42B2-B3F6-6A75F9BD28A2",
+    "height": 36,
+    "width": 451,
+    "x": 234,
+    "y": 275
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AFE2A34E-6966-4C3F-A3A1-D78827736BDD",
+      "overrideName": "CD6C78BC-230F-41C2-8041-829ECCA73478_stringValue",
+      "value": "Add Payment Option"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "95F1CC3F-DF40-40EC-A189-B32C2778100D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E35F300E-3B3D-4B03-A154-1BF2FDC00282",
+  "verticalSpacing": 0
+}

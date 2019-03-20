@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CCB3A438-F650-4E27-86DF-B0DFFA326703",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9507BFF0-63FA-435B-B573-059000A16A3F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0D96F97F-D4CE-47C5-965F-6EA8D6D8E3EF",
+    "height": 62,
+    "width": 1344,
+    "x": 32,
+    "y": 266
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Message card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "46B1FEC1-AFFD-4F06-A3A3-072482CE4D80",
+      "overrideName": "382F0E6D-882C-41BE-BCF6-4C94B4300139_stringValue",
+      "value": "Max Kelly "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B3789F06-A267-486B-BF40-23960707779F",
+      "overrideName": "70D2920B-BC84-4458-86F3-4FACEE341DA8_stringValue",
+      "value": "21st Birthday "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3E4AB643-F01B-42C9-9DE6-757F1683F559",
+      "overrideName": "40D2B734-A598-4D59-BF09-4D58B7DC79D6_stringValue",
+      "value": "Quote & Deposit received"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "787432F8-9E18-488E-A00E-EAC904938CF3",
+      "overrideName": "1CF5E47E-DAF6-4F03-AB18-2488F1673424_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/64980da0b74c0813894d4db9e4afed7446181488.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F2732A0D-62A7-46BE-92C4-8E47112A05C9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D8DB1E9E-FE83-4163-BF77-1EEABFCA5BE0",
+  "verticalSpacing": 0
+}

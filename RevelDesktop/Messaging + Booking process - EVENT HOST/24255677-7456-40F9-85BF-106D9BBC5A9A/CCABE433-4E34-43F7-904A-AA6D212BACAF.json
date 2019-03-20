@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CCABE433-4E34-43F7-904A-AA6D212BACAF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DEB5CA9F-12DD-4DA9-9A45-7AF05ACEDCFF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BDB063C2-7B90-405B-BC62-C360A6D9790D",
+    "height": 72,
+    "width": 360,
+    "x": 8,
+    "y": 238
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Messages / QuoteCard - MOBILE",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9025D59D-CD68-428D-8A5A-4FE5A063319C",
+      "overrideName": "C68D9994-85E5-422D-AD67-EA4CFA1C2953/4C6714A3-CCE6-447E-8453-1D497F11E4E3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/04d2be9d3c37b02d3d37a850f0cb2f924f5c151e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5BA4C125-1F5D-4792-8D02-7C692AE15455",
+      "overrideName": "E8B58632-D9E9-4DA3-904A-9EF0F44663A9_stringValue",
+      "value": "Paid"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "63BCB087-D5EF-4C69-8560-F1B2B3F069D6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EC3DAB67-0C8A-45BA-8EC5-81637FD357DC",
+  "verticalSpacing": 0
+}
