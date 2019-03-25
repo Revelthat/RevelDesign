@@ -116,6 +116,22 @@
     {
       "class": "bitmap",
       "id": "B7B0066E-3B80-4B05-A249-1EFD1DFCC066"
+    },
+    {
+      "class": "bitmap",
+      "id": "FED15567-3AAF-47C0-942B-F5A92ADC57A2"
+    },
+    {
+      "class": "bitmap",
+      "id": "CD57558A-48CD-4BC0-A298-254E08D6D756"
+    },
+    {
+      "class": "bitmap",
+      "id": "E189916E-D162-45E8-AA20-7AFB9F347C98"
+    },
+    {
+      "class": "bitmap",
+      "id": "0DE8F417-3F9B-4CA9-B584-2D624E7C6052"
     }
   ],
   "name": "Favourite",
@@ -130,6 +146,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",
