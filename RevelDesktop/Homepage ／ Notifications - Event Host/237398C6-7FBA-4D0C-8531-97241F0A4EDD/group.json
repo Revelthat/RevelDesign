@@ -2,10 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BA4C2FCF-29AC-45E3-89A6-4CDAFF20BE03",
+  "do_objectID": "237398C6-7FBA-4D0C-8531-97241F0A4EDD",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "764F7C2E-588B-40BD-BB44-1C81BFD45C8D",
+    "do_objectID": "42114468-58D6-480C-9798-796A38C0A602",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "185F5F97-900C-44E6-9717-7FCF98543E0E",
-    "height": 1101,
-    "width": 849,
-    "x": 68,
-    "y": 451
+    "do_objectID": "154B18CC-E500-43D1-96A9-A59F654402A1",
+    "height": 309,
+    "width": 964,
+    "x": 1144,
+    "y": 1517
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -36,42 +36,22 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "59B492A9-E92E-45EA-B693-34A3BC4CC41A"
+      "id": "A58D3481-93FD-44C5-8EFF-E2FF8B7EBC9E"
     },
     {
       "class": "symbolInstance",
-      "id": "DC2FD521-6145-4F51-8D9E-C7251899354F"
+      "id": "7AB92527-E2CD-4579-ACAE-06694F357996"
     },
     {
       "class": "symbolInstance",
-      "id": "40D84EF8-5F66-4934-80CD-871BC9F1DB02"
+      "id": "A2E0B420-6F6F-4432-99C2-B6F21BC72357"
     },
     {
       "class": "symbolInstance",
-      "id": "AC9C71EA-1BB8-42BC-BD43-56C72FF02ADC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A5A3BC64-665A-45D3-8D52-94A07CAF5739"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "66E4B1F9-0568-4FF7-83E2-DF9CCEF6A46A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "95EA7257-92ED-46AE-9B10-BADCC0B61AA5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D73BBED0-5EC6-4F26-8CB1-ACFC08E07822"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "35B05283-2757-4DF0-9A1B-4F45BD1DAB39"
+      "id": "5AC27A12-C34E-4684-A98B-8FB464BE6301"
     }
   ],
-  "name": "Group 2",
+  "name": "Group 3",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -79,7 +59,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "AF8955EE-E342-49DE-9B9D-B49217DC1852",
+    "do_objectID": "05A6FA63-9306-438D-8652-E02999E99479",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

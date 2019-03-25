@@ -24,20 +24,20 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 21,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "Services in your area"
+    "string": "Events in your area "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FB2F90FD-B8F7-46D7-BA04-966325D7520A",
+  "do_objectID": "3FFCF559-00B9-4D97-8632-CA4434EE5EA0",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EEBB062B-000B-4A3D-A17E-BD7F4AA76DF7",
+    "do_objectID": "21679C18-3747-40A8-9F39-EE989A81DB53",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -57,13 +57,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "344D76D6-E27D-48A9-B9A3-D9251CE81EBC",
+    "do_objectID": "B852A883-6D53-4C2D-8306-85F9729511E1",
     "height": 30,
-    "width": 246,
-    "x": 68,
-    "y": 384
+    "width": 230,
+    "x": 1143,
+    "y": 1466
   },
-  "glyphBounds": "{{0, 5}, {246, 25}}",
+  "glyphBounds": "{{1, 5}, {223, 25}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,7 +72,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Services in your are",
+  "name": "Events in your area",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -80,7 +80,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F82219AB-1031-4E45-B425-F10EEE1AC654",
+    "do_objectID": "BD0D1E28-AAFF-42FC-AAD8-613786701C71",
     "endMarkerType": 0,
     "fills": [
       {
@@ -104,7 +104,7 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "F85D4DAA-08FF-4331-B08E-B83896500C57",
+      "do_objectID": "6B294E86-CC52-4537-A13C-06039AAC081F",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

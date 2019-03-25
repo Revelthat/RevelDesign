@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "04E153E7-06C4-4551-865A-38E7F3F922E2",
+  "do_objectID": "EF8DBA30-D0F9-453D-AD6A-D0054EBE809F",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "AC8068D8-4F9D-4A77-A441-FA1AA53CFBBE",
+    "do_objectID": "7E889B92-9F0C-4B91-9E6D-AA81D9673CF3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,14 +14,15 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
+  "fixedRadius": 10,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 315,
-    "width": 361,
-    "x": 1053,
-    "y": 101
+    "do_objectID": "7303117C-47B4-4822-A650-CA8B22FAC0EC",
+    "height": 354,
+    "width": 767,
+    "x": 337,
+    "y": 179
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -32,13 +33,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "Rectangle 3",
+  "name": "Rectangle",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 10,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -48,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 10,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -58,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 10,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -68,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 10,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -96,10 +97,10 @@
         "fillType": 0,
         "isEnabled": true,
         "position": 1,
-        "thickness": 1
+        "thickness": 0.5
       }
     ],
-    "do_objectID": "21FDBA11-B1B0-4E13-8562-DD287EE7EC98",
+    "do_objectID": "E98FBA7F-4DEA-4E16-8157-F473C7E33CE7",
     "endMarkerType": 0,
     "fills": [
       {
@@ -136,9 +137,9 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "offsetX": 0,
-        "offsetY": 2,
+        "offsetY": 4,
         "spread": 0
       }
     ],

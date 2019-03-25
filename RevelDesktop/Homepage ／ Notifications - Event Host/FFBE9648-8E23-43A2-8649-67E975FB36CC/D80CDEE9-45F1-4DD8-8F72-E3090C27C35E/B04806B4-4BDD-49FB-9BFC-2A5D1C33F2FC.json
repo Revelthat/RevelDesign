@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Raleway-Bold",
-              "size": 14
+              "size": 22
             }
           },
           "kerning": 0,
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 176,
-    "x": 255.8551724137931,
-    "y": 17.5
+    "height": 26,
+    "width": 284,
+    "x": 61,
+    "y": 14
   },
-  "glyphBounds": "{{1, 2}, {175, 15}}",
+  "glyphBounds": "{{6, 4}, {274, 23}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "OK",
+  "name": "Begin Creating your",
   "nameIsFixed": false,
   "originalObjectID": "CD6C78BC-230F-41C2-8041-829ECCA73478",
   "resizingConstraint": 47,
@@ -131,7 +131,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Raleway-Bold",
-            "size": 14
+            "size": 22
           }
         },
         "kerning": 0,
@@ -145,7 +145,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
