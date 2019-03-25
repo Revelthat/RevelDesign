@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7AF19C55-B4B1-4987-9444-187672BFB176",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EB52991E-C7C6-4853-8E36-026B2FD35506",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CA5E80B1-84A4-45CE-8350-07AD90BD7986",
+    "height": 352,
+    "width": 245,
+    "x": 370,
+    "y": 891
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Service Card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B6DE3E21-0666-4CF4-A92A-EDEA92065B45",
+      "overrideName": "85C1B502-05D0-4473-A2F9-93BA93F0DFEA_stringValue",
+      "value": "Caterer"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D5752978-16B3-41EB-8688-0D51209772B7",
+      "overrideName": "F88B5B3B-800E-47FD-AD2E-9282E7B4AC2C_stringValue",
+      "value": "Blendco."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8F49010E-E9D0-4A96-AC40-A2F30CF36317",
+      "overrideName": "68E97CBC-DBD9-4914-88D8-703E19A04319_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/beeacfb638e8d2b7bdc39d22d6ba1b2f3140de56.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A99AB6B5-B56E-4471-B921-178CBC225A0B",
+      "overrideName": "5A1282ED-0F84-4BDE-B653-738DDD7CD066_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/51c2caf4d75b0d98a0b9e021cb66eb04c15385a0.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "384B4EE7-2360-4B17-95EF-367D6B54DE5F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5C793788-12AD-41F3-A262-CDB8755496AD",
+  "verticalSpacing": 0
+}
