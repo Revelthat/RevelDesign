@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D0A16A91-0DBD-4A55-9CEE-CC8546068B82",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "015077B9-4716-46FE-8765-A20280911E1B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "36B5B418-A9AE-4191-8F9C-DB2BE738BEED",
+    "height": 137,
+    "width": 145,
+    "x": 337,
+    "y": 1350
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Service Card / Mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB5B5400-45CA-4993-BF83-A1EE1D5BDA4E",
+      "overrideName": "ED1469D2-C056-42E9-9AEE-9DD0FE10C9A1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/beeacfb638e8d2b7bdc39d22d6ba1b2f3140de56.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A2398E3-5B2D-419F-BE33-0CA03E81E6B1",
+      "overrideName": "B26F0150-D387-472D-933D-321466FF59EB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/96ec90e1226e258236aca02dfcf92fbf447296da.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "082D84B2-1C5F-4325-AE4E-3BB29B484955",
+      "overrideName": "4EF4C0D9-E1E4-4191-A0C4-E907B7AE3FD4_stringValue",
+      "value": "Smoothie Van"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B1B85B1C-6FCB-42AA-8A1D-63DE95BD095B",
+      "overrideName": "BF9DF016-8985-4F1E-A6F9-787AA4C0B85C_stringValue",
+      "value": "Food Truck"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "79EA3E34-EAD7-456B-9251-1D8A1FCB2A7B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A40717B1-D101-41D1-ABF8-1825BDA711EE",
+  "verticalSpacing": 0
+}

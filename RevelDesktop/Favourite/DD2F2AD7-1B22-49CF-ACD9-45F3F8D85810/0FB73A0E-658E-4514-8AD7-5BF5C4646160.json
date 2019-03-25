@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0FB73A0E-658E-4514-8AD7-5BF5C4646160",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E80AF73E-3427-4F8F-A7CA-35AE64E40351",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A34FF23-21AB-438C-9A6B-0BED7345C12A",
+    "height": 123,
+    "width": 435,
+    "x": 17,
+    "y": 1329
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Review Card / Desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "19C3B2E3-05F2-43B4-819C-3AECC66FF0E2",
+      "overrideName": "184A0C6F-815F-4CD7-82F2-C4547C35F9AC_symbolID",
+      "value": "B689471F-D61C-4332-967A-7E375231F0B0"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "026C3261-74A2-4E2B-8E65-F04BCABF1A87",
+      "overrideName": "C8BB76FB-A3FE-4D77-AEA1-59F252675453/D7CEADE4-4EDE-48EB-9D82-6D40AB1D94EB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/64980da0b74c0813894d4db9e4afed7446181488.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5DAE1629-F5B4-448F-BEB7-F09AF8A4EE81",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0DA4970E-3CAC-48D4-9D23-51D7271F3040",
+  "verticalSpacing": 0
+}

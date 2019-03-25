@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "645845B9-EFCC-414A-A320-B3227EDAC0EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8C3F3D20-A6D1-45EE-B0C0-540F228F80D2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CD9CFB37-F4C8-4612-B878-BF673074C68F",
+    "height": 71,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navbar / Event Host",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FFF58354-0B75-4588-9C12-157BFB316C77",
+      "overrideName": "B8184F42-5E34-412F-AA52-19EE9F9B64CD_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/64980da0b74c0813894d4db9e4afed7446181488.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "631C6C0F-493D-417E-89E7-A0DC7EEAC4BC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D789491D-A97E-4C27-952B-F0BF8F7C121F",
+  "verticalSpacing": 0
+}

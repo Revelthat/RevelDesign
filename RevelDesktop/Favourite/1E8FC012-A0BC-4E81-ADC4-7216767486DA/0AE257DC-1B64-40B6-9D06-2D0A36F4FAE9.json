@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0AE257DC-1B64-40B6-9D06-2D0A36F4FAE9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46E9C1CE-13D4-4497-B0D9-0FA88AA38BFC",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B65D7773-C45C-41B7-89FE-27D6024B5229",
+    "height": 352,
+    "width": 245,
+    "x": 145,
+    "y": 1080
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Service Card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B6DE3E21-0666-4CF4-A92A-EDEA92065B45",
+      "overrideName": "85C1B502-05D0-4473-A2F9-93BA93F0DFEA_stringValue",
+      "value": "Food Truck"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D5752978-16B3-41EB-8688-0D51209772B7",
+      "overrideName": "2B1FC882-161D-489F-A3ED-AC481E0F998F_stringValue",
+      "value": "Mr Burger"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8F49010E-E9D0-4A96-AC40-A2F30CF36317",
+      "overrideName": "9F60E868-AE7D-4BF5-92E2-BE4C6AD415CB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/96ec90e1226e258236aca02dfcf92fbf447296da.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A99AB6B5-B56E-4471-B921-178CBC225A0B",
+      "overrideName": "3A4ED7A1-FD2C-4224-8E79-EC83A38EB52C_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/04d2be9d3c37b02d3d37a850f0cb2f924f5c151e.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EE6D3E3D-30D1-4B17-AD83-C82288FF29FD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "055DF079-F1E5-46E8-A16A-9B4A1554F67C",
+  "verticalSpacing": 0
+}

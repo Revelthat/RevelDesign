@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3473F23D-DCF9-4AA1-907E-54EF3D1F23AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "206A2AC5-02AF-43F1-95FF-B3D71C450343",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "904E2984-B061-471E-8991-635A83BAE1F8",
+    "height": 137,
+    "width": 145,
+    "x": 174,
+    "y": 1350
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Service Card / Mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "749DCD39-CB48-47DD-9A2F-B644CFC34BAE",
+      "overrideName": "B26F0150-D387-472D-933D-321466FF59EB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/91465362ea67659cf376daf6b0cfd6352ea16716.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1F49BFCF-5555-4644-80B4-C42E54ED3BB5",
+      "overrideName": "ED1469D2-C056-42E9-9AEE-9DD0FE10C9A1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8673395cb0255e870b29de75982e026ae6a657f3.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44F937F1-7A9E-4CC1-A966-4607CDFA3ED9",
+      "overrideName": "4EF4C0D9-E1E4-4191-A0C4-E907B7AE3FD4_stringValue",
+      "value": "The Burger Truck"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9D6C05C2-84A2-4064-B8E3-D1C3EE7E8587",
+      "overrideName": "BF9DF016-8985-4F1E-A6F9-787AA4C0B85C_stringValue",
+      "value": "Food Truck"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C63BF674-9E75-4C25-929D-BF387116673F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A40717B1-D101-41D1-ABF8-1825BDA711EE",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7D40535E-2926-4338-9DCE-3BD075A918DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F88A6495-E272-4A91-B8A1-7F09F8A86958",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "91A524B6-6527-4098-8DF9-B0129B2850B6",
+    "height": 60,
+    "width": 334,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Notifications / Mobile Card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2CD44B87-F860-4CB5-B50A-D909FFA789D3",
+      "overrideName": "91CBD609-30A8-4D41-B5AA-ADD10E79E568_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95B6AD96-500F-4C87-A164-49D561F4F860",
+      "overrideName": "713BFEA3-25F3-4670-A2E5-90193E1A33AE_stringValue",
+      "value": "Don't forget to review your service!"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E18A5E07-CDEA-422B-A261-56D56F3C2532",
+      "overrideName": "2CFFCA2F-889A-4C8A-B589-8FF0E4935BF6_stringValue",
+      "value": "Max's 30th "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1367D1FE-6C7F-477C-AE1F-4930C50C80FF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FCA7F23E-B1DF-467B-A0C6-427D9BA43439",
+  "verticalSpacing": 0
+}
