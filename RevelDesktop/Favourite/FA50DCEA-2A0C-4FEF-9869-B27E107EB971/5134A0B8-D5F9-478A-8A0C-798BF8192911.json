@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5134A0B8-D5F9-478A-8A0C-798BF8192911",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9CA269CF-86E2-4170-9D24-99761BA3BD59",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7A093E18-B163-415F-B15A-EF9A53919414",
+    "height": 137,
+    "width": 145,
+    "x": 201,
+    "y": 530
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "EventCard / Mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9D359BC9-9258-4F4A-A5F9-B0217CAB1487",
+      "overrideName": "D32C37A8-E161-439C-A6FF-7BC3BED8799D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/bd1820023b585c8664af2df3b784abafc721a8e0.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6C3F3DA7-3740-4C14-A105-BE2C20D63C5D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "94B0BAF5-A711-45F7-ADB8-80AE04A0EBEC",
+  "verticalSpacing": 0
+}

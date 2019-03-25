@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7A562578-2159-47E8-A531-5F5DD6652FD8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7ADA9C09-5672-41F6-9763-ED2CA5F9B46B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "49FF7F84-2FE2-4AD4-9C22-63143CA3B6C1",
+    "height": 137,
+    "width": 145,
+    "x": 201,
+    "y": 722
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Service Card / Mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5B93B3D0-6F14-436F-9EF6-6DD12AAF808F",
+      "overrideName": "A3A1396D-1980-4328-A232-5D5564911261_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/64980da0b74c0813894d4db9e4afed7446181488.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8305A6FB-B487-47AB-96B1-1546A5F0B0FB",
+      "overrideName": "4DA8E5F6-8A25-42BA-A1AD-9F71FE9475F9_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/96ec90e1226e258236aca02dfcf92fbf447296da.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF6A214B-C4BA-4531-841B-80FA7D633753",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A1463F8C-20C6-4FB5-A822-15A79121F759",
+  "verticalSpacing": 0
+}

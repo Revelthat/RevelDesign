@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8DD91469-59F3-4F3F-84C4-3EE4989F5BA7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "18BB153B-6CED-4A38-9EFD-67B4A2B5CD60",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "55EE7E05-8BE1-4FBC-A08A-76C8AE96CFE4",
+    "height": 137,
+    "width": 145,
+    "x": 328,
+    "y": 1011
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Service Card / Mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A862FF1-3E8A-434C-BBBE-168C64E60A9C",
+      "overrideName": "09949979-AE9A-49CE-B0F4-D35D1D50DD40_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/04d2be9d3c37b02d3d37a850f0cb2f924f5c151e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E687500-7C19-451A-B8B3-452A2DB64A3D",
+      "overrideName": "73B28B4E-AD1A-4FE2-A9EA-C1DB96A4876C_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/96ec90e1226e258236aca02dfcf92fbf447296da.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AE2ECA23-30AF-45B6-979C-9E0B189E444D",
+      "overrideName": "769C9867-62FD-4D14-A2C5-F2D9C50D200B_stringValue",
+      "value": "Food Truck"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB2451F8-EFF2-436A-A6C7-E6B66D48BFB8",
+      "overrideName": "F8837CAA-DDDE-4F9C-BE5C-89DAF1FE6777_stringValue",
+      "value": "Mr Burger"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C3C5BB8C-1F29-4BD5-814F-6494C1C5A763",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BECC181E-83D9-4CE9-B779-604D20B618C4",
+  "verticalSpacing": 0
+}

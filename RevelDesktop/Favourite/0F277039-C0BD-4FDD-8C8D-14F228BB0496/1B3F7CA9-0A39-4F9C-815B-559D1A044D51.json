@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1B3F7CA9-0A39-4F9C-815B-559D1A044D51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14415313-4BA4-4AF5-8EA9-743395AE5402",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9C7C2922-074A-4B64-9929-8200402F7B66",
+    "height": 137,
+    "width": 145,
+    "x": 177,
+    "y": 1340
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Service Card / Mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A862FF1-3E8A-434C-BBBE-168C64E60A9C",
+      "overrideName": "64756091-BF54-4523-8D86-0474FB4204A8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/04d2be9d3c37b02d3d37a850f0cb2f924f5c151e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E687500-7C19-451A-B8B3-452A2DB64A3D",
+      "overrideName": "BE1DC47F-3A0E-4F95-8F8D-FA7372CCA4EB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/96ec90e1226e258236aca02dfcf92fbf447296da.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AE2ECA23-30AF-45B6-979C-9E0B189E444D",
+      "overrideName": "6776B801-4778-4328-8D55-A04169076339_stringValue",
+      "value": "Food Truck"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB2451F8-EFF2-436A-A6C7-E6B66D48BFB8",
+      "overrideName": "F16EF7B1-8A7A-4A56-AD61-5E9366EB0C6D_stringValue",
+      "value": "Mr Burger"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2486FE00-12EF-49E2-8CC0-010A5CEDF438",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "27474061-C6E8-49F4-B07A-C075E3D0A6BB",
+  "verticalSpacing": 0
+}
