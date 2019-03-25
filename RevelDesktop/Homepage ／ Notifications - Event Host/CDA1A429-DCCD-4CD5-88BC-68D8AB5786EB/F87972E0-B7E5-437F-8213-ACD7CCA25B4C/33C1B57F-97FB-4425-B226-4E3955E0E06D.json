@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "33C1B57F-97FB-4425-B226-4E3955E0E06D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1122BC28-AF36-4B4E-A949-FD11B0A3D296",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "05CAC9EE-6A2B-4BA3-B488-485F4A71EDA4",
+    "height": 308.5591836734694,
+    "width": 223,
+    "x": 247,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "EventCard / Desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B6DBF23E-3907-4F50-B291-A36AC2A8A77D",
+      "overrideName": "16E975E8-5886-4B0C-B6D9-A5672F46BAB1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/bd1820023b585c8664af2df3b784abafc721a8e0.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E2DA81B6-E463-4521-8D98-53B9AEE30686",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "57BB3B7C-CB93-4953-985D-11743D381B31",
+  "verticalSpacing": 0
+}
